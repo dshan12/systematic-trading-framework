@@ -21135,5 +21135,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (6.05%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-28T21:28:26.043081",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 5,
+    "price": 60.915,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-7.16%), long."
+    ]
   }
 ]
