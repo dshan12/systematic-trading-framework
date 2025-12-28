@@ -21115,5 +21115,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-1.30%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-28T21:28:16.031378",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 9,
+    "price": 310.65,
+    "reason": [
+      "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-2.81%), long."
+    ]
   }
 ]
