@@ -21025,5 +21025,15 @@
       "Weekly Reversal: CME was among the 10 best 1\u2011week performers (4.02%), short.",
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.11%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-28T21:27:30.148357",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 99,
+    "price": 29.66,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-2.02%), long."
+    ]
   }
 ]
