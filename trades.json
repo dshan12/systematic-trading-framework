@@ -21125,5 +21125,15 @@
     "reason": [
       "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-2.81%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-28T21:28:21.000482",
+    "symbol": "MRK",
+    "side": "sell",
+    "qty": 2,
+    "price": 106.85,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (6.05%), short."
+    ]
   }
 ]
