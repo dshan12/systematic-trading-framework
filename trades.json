@@ -20953,5 +20953,15 @@
     "reason": [
       "Low Volatility: XOM is in the lowest decile of 60\u2011day vol (1.11%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-28T21:26:54.444239",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 20,
+    "price": 258.75,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.9% based on baseline allocation."
+    ]
   }
 ]
