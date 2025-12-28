@@ -20983,5 +20983,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-28T21:27:10.043671",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 12,
+    "price": 232.51,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
