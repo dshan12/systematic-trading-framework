@@ -21486,5 +21486,15 @@
     "reason": [
       "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (3.04%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-29T21:29:46.411219",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 30,
+    "price": 94.55,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
