@@ -21426,5 +21426,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (5.47%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-29T21:29:21.864176",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 1,
+    "price": 144.225,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-2.65%), long."
+    ]
   }
 ]
