@@ -21506,5 +21506,16 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-1.60%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-29T21:29:54.462616",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 24,
+    "price": 120.555,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (3.29%), short.",
+      "Low Volatility: XOM is in the lowest decile of 60\u2011day vol (1.11%)."
+    ]
   }
 ]
