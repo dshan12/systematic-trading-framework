@@ -21376,5 +21376,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-29T21:29:01.420852",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 9,
+    "price": 323.76,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
