@@ -21597,5 +21597,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.04%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-30T21:29:39.850945",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 39,
+    "price": 79.855,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.5% based on baseline allocation."
+    ]
   }
 ]
