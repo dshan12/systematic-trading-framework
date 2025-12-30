@@ -21607,5 +21607,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-30T21:29:44.176123",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 1,
+    "price": 152.31,
+    "reason": [
+      "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
