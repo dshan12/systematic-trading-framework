@@ -21587,5 +21587,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 best 1\u2011week performers (2.43%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-30T21:29:35.456737",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 7,
+    "price": 36.42,
+    "reason": [
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.04%)."
+    ]
   }
 ]
