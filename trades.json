@@ -21909,5 +21909,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-2.49%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-31T21:28:40.669121",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 10,
+    "price": 305.6,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.5% based on baseline allocation."
+    ]
   }
 ]
