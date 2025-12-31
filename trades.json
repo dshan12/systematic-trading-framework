@@ -21848,5 +21848,16 @@
     "reason": [
       "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (1.69%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-31T21:28:14.242282",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 20,
+    "price": 152.41,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (1.26%), short.",
+      "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
