@@ -21859,5 +21859,15 @@
       "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (1.26%), short.",
       "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.10%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-31T21:28:18.419406",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 25,
+    "price": 113.745,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
