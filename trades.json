@@ -21999,5 +21999,15 @@
     "reason": [
       "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (1.69%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-01T21:28:34.565943",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 8,
+    "price": 350.49,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (2.14%), short."
+    ]
   }
 ]
