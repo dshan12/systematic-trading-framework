@@ -22059,5 +22059,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-2.03%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-01T21:29:05.707836",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 72,
+    "price": 40.75,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 best 1\u2011week performers (2.03%), short."
+    ]
   }
 ]
