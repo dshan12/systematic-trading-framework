@@ -22039,5 +22039,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-2.49%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-01T21:28:55.482043",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 17,
+    "price": 171.06,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-2.12%), long."
+    ]
   }
 ]
