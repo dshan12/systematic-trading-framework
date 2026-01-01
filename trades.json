@@ -22009,5 +22009,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (2.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-01T21:28:39.703415",
+    "symbol": "GE",
+    "side": "buy",
+    "qty": 9,
+    "price": 308.065,
+    "reason": [
+      "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-2.38%), long."
+    ]
   }
 ]
