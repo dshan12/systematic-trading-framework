@@ -22049,5 +22049,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-2.12%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-01T21:29:00.581946",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 1,
+    "price": 173.5,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-2.03%), long."
+    ]
   }
 ]
