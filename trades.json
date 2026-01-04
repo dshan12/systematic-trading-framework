@@ -22079,5 +22079,15 @@
     "reason": [
       "Low Volatility: XOM is in the lowest decile of 60\u2011day vol (1.09%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-04T21:27:19.191321",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 11,
+    "price": 259.735,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-3.72%), long."
+    ]
   }
 ]
