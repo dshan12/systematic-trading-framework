@@ -22199,5 +22199,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-3.24%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-04T21:28:21.361854",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 3,
+    "price": 914.25,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
