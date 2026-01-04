@@ -22299,5 +22299,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-04T21:29:12.931288",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 144,
+    "price": 40.47,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -6.6% based on baseline allocation."
+    ]
   }
 ]
