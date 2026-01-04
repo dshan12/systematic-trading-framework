@@ -22259,5 +22259,15 @@
     "reason": [
       "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-3.21%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-04T21:28:52.543970",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 6,
+    "price": 472.935,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-3.09%), long."
+    ]
   }
 ]
