@@ -22501,5 +22501,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 best 1\u2011week performers (4.56%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:31:58.530629",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 11,
+    "price": 294.95,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.7% based on baseline allocation."
+    ]
   }
 ]
