@@ -22401,5 +22401,15 @@
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (5.68%), short.",
       "Pairs Trading: CAT/ETN spread z\u2011score=3.17, short ETN."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:31:14.384085",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 74,
+    "price": 28.12,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-5.16%), long."
+    ]
   }
 ]
