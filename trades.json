@@ -22471,5 +22471,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:31:45.344946",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 32,
+    "price": 322.14,
+    "reason": [
+      "Pairs Trading: CAT/ETN spread z\u2011score=3.17, long CAT."
+    ]
   }
 ]
