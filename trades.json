@@ -22441,5 +22441,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-5.12%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:31:31.865061",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 39,
+    "price": 35.9,
+    "reason": [
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.04%)."
+    ]
   }
 ]
