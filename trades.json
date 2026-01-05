@@ -22330,5 +22330,15 @@
     "reason": [
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.14%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:30:43.111660",
+    "symbol": "ABBV",
+    "side": "buy",
+    "qty": 9,
+    "price": 220.195,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-4.26%), long."
+    ]
   }
 ]
