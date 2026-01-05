@@ -22541,5 +22541,16 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.09%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:32:16.110392",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 10,
+    "price": 299.82,
+    "reason": [
+      "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-3.48%), long.",
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.13%)."
+    ]
   }
 ]
