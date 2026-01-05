@@ -22481,5 +22481,15 @@
     "reason": [
       "Pairs Trading: CAT/ETN spread z\u2011score=3.17, long CAT."
     ]
+  },
+  {
+    "timestamp": "2026-01-05T21:31:49.595076",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 7,
+    "price": 118.305,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-5.13%), long."
+    ]
   }
 ]
