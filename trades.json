@@ -22692,5 +22692,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:40.842781",
+    "symbol": "LIN",
+    "side": "buy",
+    "qty": 8,
+    "price": 437.24,
+    "reason": [
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.13%)."
+    ]
   }
 ]
