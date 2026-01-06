@@ -22712,5 +22712,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.13%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:48.554034",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 23,
+    "price": 90.605,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-3.72%), long."
+    ]
   }
 ]
