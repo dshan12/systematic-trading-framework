@@ -22602,5 +22602,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (3.07%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:05.064325",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 4,
+    "price": 262.22,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-4.16%), long."
+    ]
   }
 ]
