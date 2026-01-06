@@ -22732,5 +22732,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-3.66%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:56.242462",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 13,
+    "price": 155.165,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-4.19%), long."
+    ]
   }
 ]
