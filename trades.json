@@ -22662,5 +22662,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:28.817180",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 9,
+    "price": 262.7,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
