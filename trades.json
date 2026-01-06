@@ -22622,5 +22622,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:13.099497",
+    "symbol": "AMGN",
+    "side": "sell",
+    "qty": 6,
+    "price": 330.33,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
