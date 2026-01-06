@@ -22612,5 +22612,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-4.16%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-06T21:30:09.134703",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 9,
+    "price": 223.92,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
