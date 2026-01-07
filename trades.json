@@ -22873,5 +22873,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-6.91%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:30:11.660354",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 5,
+    "price": 478.7,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
