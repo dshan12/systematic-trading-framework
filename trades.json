@@ -22823,5 +22823,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (3.88%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:29:50.541712",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 3,
+    "price": 202.71,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 best 1\u2011week performers (3.61%), short."
+    ]
   }
 ]
