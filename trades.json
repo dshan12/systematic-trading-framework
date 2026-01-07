@@ -23016,5 +23016,16 @@
       "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-4.96%), long.",
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:31:10.482131",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 28,
+    "price": 138.02,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-4.17%), long.",
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
