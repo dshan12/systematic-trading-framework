@@ -22894,5 +22894,15 @@
       "Weekly Reversal: CSX was among the 10 worst 1\u2011week performers (-3.76%), long.",
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.09%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:30:20.113989",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 1,
+    "price": 366.68,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (5.13%), short."
+    ]
   }
 ]
