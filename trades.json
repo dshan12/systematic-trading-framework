@@ -22914,5 +22914,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 11.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:30:28.947603",
+    "symbol": "GE",
+    "side": "sell",
+    "qty": 8,
+    "price": 323.56,
+    "reason": [
+      "Weekly Reversal: GE was among the 10 best 1\u2011week performers (3.80%), short."
+    ]
   }
 ]
