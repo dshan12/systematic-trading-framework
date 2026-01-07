@@ -23057,5 +23057,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-5.07%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:31:27.291163",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 4,
+    "price": 185.76,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (5.87%), short."
+    ]
   }
 ]
