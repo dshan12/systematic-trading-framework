@@ -22904,5 +22904,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (5.13%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-07T21:30:24.314714",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 32,
+    "price": 322.77,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 11.7% based on baseline allocation."
+    ]
   }
 ]
