@@ -23148,5 +23148,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 best 1\u2011week performers (6.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-08T21:31:50.368525",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 78,
+    "price": 35.29,
+    "reason": [
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.09%)."
+    ]
   }
 ]
