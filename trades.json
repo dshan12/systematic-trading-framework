@@ -23088,5 +23088,15 @@
       "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-4.72%), long.",
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-08T21:31:19.253481",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 13,
+    "price": 204.62,
+    "reason": [
+      "Weekly Reversal: AMD was among the 10 worst 1\u2011week performers (-4.43%), long."
+    ]
   }
 ]
