@@ -23228,5 +23228,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 best 1\u2011week performers (6.24%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-08T21:32:31.945890",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 30,
+    "price": 90.51,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-3.44%), long."
+    ]
   }
 ]
