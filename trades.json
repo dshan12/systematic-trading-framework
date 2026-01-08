@@ -23168,5 +23168,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 best 1\u2011week performers (7.57%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-08T21:32:00.828992",
+    "symbol": "GE",
+    "side": "buy",
+    "qty": 8,
+    "price": 314.39,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
+    ]
   }
 ]
