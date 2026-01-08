@@ -23138,5 +23138,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (6.15%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-08T21:31:45.036314",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 3,
+    "price": 915.54,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 best 1\u2011week performers (6.14%), short."
+    ]
   }
 ]
