@@ -23348,5 +23348,16 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-2.68%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-11T21:27:28.496448",
+    "symbol": "CSX",
+    "side": "buy",
+    "qty": 78,
+    "price": 35.18,
+    "reason": [
+      "Weekly Reversal: CSX was among the 10 worst 1\u2011week performers (-2.95%), long.",
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
