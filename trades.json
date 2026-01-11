@@ -23288,5 +23288,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-4.03%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-11T21:27:02.430818",
+    "symbol": "ACN",
+    "side": "sell",
+    "qty": 9,
+    "price": 280.72,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (7.97%), short."
+    ]
   }
 ]
