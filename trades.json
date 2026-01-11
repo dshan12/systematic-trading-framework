@@ -23419,5 +23419,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (15.67%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-11T21:27:59.179385",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 69,
+    "price": 70.53,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.5% based on baseline allocation."
+    ]
   }
 ]
