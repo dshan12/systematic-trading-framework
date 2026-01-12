@@ -23559,5 +23559,15 @@
     "reason": [
       "Weekly Reversal: AXP was among the 10 worst 1\u2011week performers (-5.32%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:31:06.702208",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 50,
+    "price": 55.17,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-2.99%), long."
+    ]
   }
 ]
