@@ -23639,5 +23639,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:31:47.003008",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 26,
+    "price": 105.44,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
