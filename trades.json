@@ -23679,5 +23679,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (5.83%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:32:08.450269",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 2,
+    "price": 44.05,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (11.91%), short."
+    ]
   }
 ]
