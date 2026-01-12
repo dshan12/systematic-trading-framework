@@ -23709,5 +23709,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:32:23.633097",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 14,
+    "price": 184.85,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
