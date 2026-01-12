@@ -23589,5 +23589,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-2.80%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:31:21.745285",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 98,
+    "price": 29.07,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
