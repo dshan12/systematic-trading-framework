@@ -23739,5 +23739,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-3.99%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:32:40.127033",
+    "symbol": "V",
+    "side": "buy",
+    "qty": 8,
+    "price": 343.3,
+    "reason": [
+      "Weekly Reversal: V was among the 10 worst 1\u2011week performers (-3.00%), long."
+    ]
   }
 ]
