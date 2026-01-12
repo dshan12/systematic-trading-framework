@@ -23689,5 +23689,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (11.91%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:32:13.537483",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 8,
+    "price": 324.335,
+    "reason": [
+      "Weekly Reversal: JPM was among the 10 worst 1\u2011week performers (-2.86%), long."
+    ]
   }
 ]
