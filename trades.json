@@ -23659,5 +23659,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (4.86%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:31:57.410340",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 13,
+    "price": 208.565,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
