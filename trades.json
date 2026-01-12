@@ -23519,5 +23519,15 @@
     "reason": [
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:30:45.270235",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 12,
+    "price": 220.07,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
