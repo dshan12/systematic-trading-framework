@@ -23669,5 +23669,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-12T21:32:03.595843",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 8,
+    "price": 312.16,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (5.83%), short."
+    ]
   }
 ]
