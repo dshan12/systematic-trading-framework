@@ -24110,5 +24110,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:33:15.153190",
+    "symbol": "V",
+    "side": "sell",
+    "qty": 1,
+    "price": 327.96,
+    "reason": [
+      "Weekly Reversal: V was among the 10 worst 1\u2011week performers (-8.30%), long."
+    ]
   }
 ]
