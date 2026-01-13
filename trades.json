@@ -24020,5 +24020,15 @@
     "reason": [
       "Weekly Reversal: KO was among the 10 best 1\u2011week performers (5.01%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:32:39.384353",
+    "symbol": "LIN",
+    "side": "sell",
+    "qty": 1,
+    "price": 442.9,
+    "reason": [
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
