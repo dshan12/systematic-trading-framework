@@ -23990,5 +23990,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-5.23%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:32:27.490874",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 5,
+    "price": 213.745,
+    "reason": [
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
