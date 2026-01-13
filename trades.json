@@ -24010,5 +24010,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 worst 1\u2011week performers (-7.09%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:32:35.449918",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 29,
+    "price": 71.21,
+    "reason": [
+      "Weekly Reversal: KO was among the 10 best 1\u2011week performers (5.01%), short."
+    ]
   }
 ]
