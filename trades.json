@@ -23919,5 +23919,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:31:58.455212",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 29,
+    "price": 336.48,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (6.96%), short.",
+      "Pairs Trading: GOOG/META spread z\u2011score=2.01, short META."
+    ]
   }
 ]
