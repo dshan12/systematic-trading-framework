@@ -24050,5 +24050,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-6.09%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:32:51.335467",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 15,
+    "price": 309.375,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.2% based on baseline allocation."
+    ]
   }
 ]
