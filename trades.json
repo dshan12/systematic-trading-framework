@@ -24040,5 +24040,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 best 1\u2011week performers (11.26%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:32:47.437074",
+    "symbol": "MA",
+    "side": "buy",
+    "qty": 3,
+    "price": 545.02,
+    "reason": [
+      "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-6.09%), long."
+    ]
   }
 ]
