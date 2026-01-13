@@ -23930,5 +23930,15 @@
       "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (6.96%), short.",
       "Pairs Trading: GOOG/META spread z\u2011score=2.01, short META."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:32:02.538156",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 6,
+    "price": 335.99,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (6.88%), short."
+    ]
   }
 ]
