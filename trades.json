@@ -23749,5 +23749,15 @@
     "reason": [
       "Weekly Reversal: V was among the 10 worst 1\u2011week performers (-3.00%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-13T21:30:51.527622",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 5,
+    "price": 261.05,
+    "reason": [
+      "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.05%)."
+    ]
   }
 ]
