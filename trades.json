@@ -24210,5 +24210,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-14T21:32:10.755732",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 12,
+    "price": 167.25,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (7.76%), short."
+    ]
   }
 ]
