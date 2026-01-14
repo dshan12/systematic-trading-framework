@@ -24140,5 +24140,15 @@
     "reason": [
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.02%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-14T21:31:39.007762",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 6,
+    "price": 304.45,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-9.96%), long."
+    ]
   }
 ]
