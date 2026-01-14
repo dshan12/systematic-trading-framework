@@ -24350,5 +24350,15 @@
     "reason": [
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-14T21:33:13.290256",
+    "symbol": "PM",
+    "side": "sell",
+    "qty": 12,
+    "price": 171.19,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 best 1\u2011week performers (10.27%), short."
+    ]
   }
 ]
