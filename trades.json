@@ -24150,5 +24150,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-9.96%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-14T21:31:43.761887",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 9,
+    "price": 52.52,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-5.68%), long."
+    ]
   }
 ]
