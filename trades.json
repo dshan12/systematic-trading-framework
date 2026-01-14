@@ -24340,5 +24340,15 @@
     "reason": [
       "Pairs Trading: GOOG/META spread z\u2011score=2.21, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2026-01-14T21:33:08.938620",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 9,
+    "price": 145.94,
+    "reason": [
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
