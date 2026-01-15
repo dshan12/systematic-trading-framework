@@ -24580,5 +24580,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-6.45%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:55.198135",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 24,
+    "price": 456.71,
+    "reason": [
+      "Pairs Trading: GS/MSFT spread z\u2011score=3.39, long GS."
+    ]
   }
 ]
