@@ -24590,5 +24590,15 @@
     "reason": [
       "Pairs Trading: GS/MSFT spread z\u2011score=3.39, long GS."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:59.125359",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 7,
+    "price": 146.55,
+    "reason": [
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
