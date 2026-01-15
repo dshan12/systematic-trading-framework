@@ -24490,5 +24490,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-10.36%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:18.339092",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 30,
+    "price": 36.29,
+    "reason": [
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
