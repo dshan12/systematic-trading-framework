@@ -24630,5 +24630,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (6.76%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:32:14.730930",
+    "symbol": "V",
+    "side": "sell",
+    "qty": 1,
+    "price": 327.77,
+    "reason": [
+      "Weekly Reversal: V was among the 10 worst 1\u2011week performers (-6.95%), long."
+    ]
   }
 ]
