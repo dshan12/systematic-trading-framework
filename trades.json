@@ -24460,5 +24460,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (6.42%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:06.113526",
+    "symbol": "CB",
+    "side": "buy",
+    "qty": 12,
+    "price": 301.055,
+    "reason": [
+      "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.11%)."
+    ]
   }
 ]
