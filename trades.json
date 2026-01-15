@@ -24500,5 +24500,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:22.593274",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 11,
+    "price": 975.71,
+    "reason": [
+      "Pairs Trading: GS/MSFT spread z\u2011score=3.39, short MSFT."
+    ]
   }
 ]
