@@ -24550,5 +24550,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-7.48%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:42.980923",
+    "symbol": "LIN",
+    "side": "sell",
+    "qty": 1,
+    "price": 439.93,
+    "reason": [
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
