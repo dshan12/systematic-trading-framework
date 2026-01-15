@@ -24510,5 +24510,15 @@
     "reason": [
       "Pairs Trading: GS/MSFT spread z\u2011score=3.39, short MSFT."
     ]
+  },
+  {
+    "timestamp": "2026-01-15T21:31:26.698861",
+    "symbol": "ICE",
+    "side": "sell",
+    "qty": 12,
+    "price": 173.12,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 best 1\u2011week performers (6.98%), short."
+    ]
   }
 ]
