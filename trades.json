@@ -24680,5 +24680,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (8.94%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:27:07.172209",
+    "symbol": "AXP",
+    "side": "sell",
+    "qty": 6,
+    "price": 364.84,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
