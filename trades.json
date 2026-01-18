@@ -24700,5 +24700,15 @@
     "reason": [
       "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-5.16%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:27:14.829684",
+    "symbol": "BRK.B",
+    "side": "sell",
+    "qty": 1,
+    "price": 493.33,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.85%)."
+    ]
   }
 ]
