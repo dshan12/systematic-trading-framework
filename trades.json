@@ -24670,5 +24670,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-11.33%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:27:03.265487",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 12,
+    "price": 183.61,
+    "reason": [
+      "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (8.94%), short."
+    ]
   }
 ]
