@@ -24830,5 +24830,15 @@
     "reason": [
       "Weekly Reversal: PM was among the 10 best 1\u2011week performers (6.77%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:28:04.717279",
+    "symbol": "QCOM",
+    "side": "sell",
+    "qty": 2,
+    "price": 159.4,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-10.33%), long."
+    ]
   }
 ]
