@@ -24690,5 +24690,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:27:11.004550",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 7,
+    "price": 52.97,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-5.16%), long."
+    ]
   }
 ]
