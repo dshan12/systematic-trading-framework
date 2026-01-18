@@ -24760,5 +24760,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 best 1\u2011week performers (5.79%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:27:37.997723",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 4,
+    "price": 545.255,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-15.71%), long."
+    ]
   }
 ]
