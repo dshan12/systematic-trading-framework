@@ -24840,5 +24840,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-10.33%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:28:08.511973",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 11,
+    "price": 201.94,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (7.12%), short."
+    ]
   }
 ]
