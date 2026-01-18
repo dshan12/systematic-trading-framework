@@ -24650,5 +24650,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-6.95%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:26:55.601306",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 4,
+    "price": 255.475,
+    "reason": [
+      "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (0.90%)."
+    ]
   }
 ]
