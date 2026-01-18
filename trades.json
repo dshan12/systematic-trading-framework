@@ -24790,5 +24790,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-18T21:27:49.523155",
+    "symbol": "MA",
+    "side": "buy",
+    "qty": 4,
+    "price": 539.425,
+    "reason": [
+      "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-6.26%), long."
+    ]
   }
 ]
