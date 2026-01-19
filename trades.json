@@ -24910,5 +24910,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.85%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-19T21:29:50.758366",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 17,
+    "price": 646.78,
+    "reason": [
+      "Pairs Trading: CAT/MSFT spread z\u2011score=3.32, short MSFT."
+    ]
   }
 ]
