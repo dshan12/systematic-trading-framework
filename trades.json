@@ -24990,5 +24990,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-6.26%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-19T21:30:34.213253",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 24,
+    "price": 459.95,
+    "reason": [
+      "Pairs Trading: CAT/MSFT spread z\u2011score=3.32, long CAT."
+    ]
   }
 ]
