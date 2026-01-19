@@ -24920,5 +24920,15 @@
     "reason": [
       "Pairs Trading: CAT/MSFT spread z\u2011score=3.32, short MSFT."
     ]
+  },
+  {
+    "timestamp": "2026-01-19T21:29:56.272445",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 9,
+    "price": 227.01,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-12.63%), long."
+    ]
   }
 ]
