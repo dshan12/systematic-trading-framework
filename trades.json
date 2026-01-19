@@ -24930,5 +24930,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-12.63%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-19T21:30:01.504256",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 6,
+    "price": 343.79,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (5.93%), short."
+    ]
   }
 ]
