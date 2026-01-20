@@ -25331,5 +25331,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -4.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:32:43.378026",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 2,
+    "price": 154.13,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-8.98%), long."
+    ]
   }
 ]
