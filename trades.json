@@ -25180,5 +25180,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:31:41.223965",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 12,
+    "price": 337.63,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -4.5% based on baseline allocation."
+    ]
   }
 ]
