@@ -25050,5 +25050,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-7.89%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:30:45.720238",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 6,
+    "price": 290.29,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-11.38%), long."
+    ]
   }
 ]
