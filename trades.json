@@ -25110,5 +25110,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:31:11.702411",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 16,
+    "price": 628.93,
+    "reason": [
+      "Pairs Trading: CAT/MSFT spread z\u2011score=3.09, short MSFT."
+    ]
   }
 ]
