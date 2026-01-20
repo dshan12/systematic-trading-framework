@@ -25310,5 +25310,16 @@
     "reason": [
       "Pairs Trading: CAT/MSFT spread z\u2011score=3.09, long CAT."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:32:35.221887",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 16,
+    "price": 147.64,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (4.46%), short.",
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
