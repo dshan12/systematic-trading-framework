@@ -25190,5 +25190,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -4.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:31:45.508377",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 8,
+    "price": 322.04,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
