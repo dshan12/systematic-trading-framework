@@ -25070,5 +25070,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (3.63%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:30:54.570122",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 11,
+    "price": 231.03,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
