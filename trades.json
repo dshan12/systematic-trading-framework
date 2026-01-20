@@ -25260,5 +25260,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-7.91%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-20T21:32:14.653974",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 53,
+    "price": 71.77,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.05%)."
+    ]
   }
 ]
