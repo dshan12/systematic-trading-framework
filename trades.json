@@ -25502,5 +25502,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 best 1\u2011week performers (6.00%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:37:56.404816",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 16,
+    "price": 129.145,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (6.04%), short."
+    ]
   }
 ]
