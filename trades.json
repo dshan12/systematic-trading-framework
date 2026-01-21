@@ -25442,5 +25442,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-7.28%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:37:23.551795",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 1,
+    "price": 645.37,
+    "reason": [
+      "Pairs Trading: CAT/MSFT spread z\u2011score=3.41, short MSFT."
+    ]
   }
 ]
