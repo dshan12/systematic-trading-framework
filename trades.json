@@ -25643,5 +25643,15 @@
     "reason": [
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:39:13.146785",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 3,
+    "price": 636.3,
+    "reason": [
+      "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (4.81%), short."
+    ]
   }
 ]
