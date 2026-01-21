@@ -25452,5 +25452,15 @@
     "reason": [
       "Pairs Trading: CAT/MSFT spread z\u2011score=3.41, short MSFT."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:37:29.356104",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 10,
+    "price": 279.12,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
