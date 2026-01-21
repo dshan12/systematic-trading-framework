@@ -25673,5 +25673,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (4.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:39:28.514634",
+    "symbol": "WFC",
+    "side": "sell",
+    "qty": 1,
+    "price": 86.15,
+    "reason": [
+      "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-7.95%), long."
+    ]
   }
 ]
