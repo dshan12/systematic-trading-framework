@@ -25602,5 +25602,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 4.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:38:51.244691",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 1,
+    "price": 305.675,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 0.3% based on baseline allocation."
+    ]
   }
 ]
