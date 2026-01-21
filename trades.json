@@ -25612,5 +25612,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:38:56.397376",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 3,
+    "price": 444.95,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-5.64%), long.",
+      "Pairs Trading: CAT/MSFT spread z\u2011score=3.41, long CAT."
+    ]
   }
 ]
