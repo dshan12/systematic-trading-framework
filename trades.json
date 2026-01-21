@@ -25462,5 +25462,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:37:34.565200",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 2,
+    "price": 982.795,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 best 1\u2011week performers (4.35%), short."
+    ]
   }
 ]
