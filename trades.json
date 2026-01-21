@@ -25412,5 +25412,15 @@
       "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-5.13%), long.",
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (0.98%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:37:07.253474",
+    "symbol": "AMGN",
+    "side": "sell",
+    "qty": 6,
+    "price": 343.57,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (5.95%), short."
+    ]
   }
 ]
