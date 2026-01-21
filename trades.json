@@ -25532,5 +25532,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:38:12.177088",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 13,
+    "price": 171.895,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
