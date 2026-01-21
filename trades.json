@@ -25623,5 +25623,15 @@
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-5.64%), long.",
       "Pairs Trading: CAT/MSFT spread z\u2011score=3.41, long CAT."
     ]
+  },
+  {
+    "timestamp": "2026-01-21T21:39:01.901734",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 24,
+    "price": 85.51,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-5.49%), long."
+    ]
   }
 ]
