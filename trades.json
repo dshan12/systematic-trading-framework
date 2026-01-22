@@ -25854,5 +25854,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-5.66%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-22T21:33:48.907300",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 1,
+    "price": 144.38,
+    "reason": [
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.09%)."
+    ]
   }
 ]
