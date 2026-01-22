@@ -25693,5 +25693,16 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (5.59%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-22T21:32:37.879341",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 1,
+    "price": 248.355,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-4.47%), long.",
+      "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (0.96%)."
+    ]
   }
 ]
