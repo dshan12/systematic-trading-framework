@@ -25864,5 +25864,15 @@
     "reason": [
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.09%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-22T21:33:53.198233",
+    "symbol": "TMO",
+    "side": "buy",
+    "qty": 3,
+    "price": 639.29,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
