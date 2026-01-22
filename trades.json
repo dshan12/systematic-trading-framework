@@ -25834,5 +25834,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 best 1\u2011week performers (5.22%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-22T21:33:40.154039",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 4,
+    "price": 450.915,
+    "reason": [
+      "Pairs Trading: CAT/MSFT spread z\u2011score=3.29, long CAT."
+    ]
   }
 ]
