@@ -25985,5 +25985,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:28:52.804702",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 99,
+    "price": 36.63,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.1% based on baseline allocation."
+    ]
   }
 ]
