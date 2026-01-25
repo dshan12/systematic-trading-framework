@@ -25905,5 +25905,15 @@
       "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-3.94%), long.",
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (0.91%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:28:12.238534",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 1,
+    "price": 107.45,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-13.04%), long."
+    ]
   }
 ]
