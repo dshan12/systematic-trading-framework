@@ -26035,5 +26035,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 worst 1\u2011week performers (-5.84%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:29:16.736185",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 10,
+    "price": 221.44,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
