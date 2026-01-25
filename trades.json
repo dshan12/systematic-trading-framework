@@ -26137,5 +26137,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 best 1\u2011week performers (3.82%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:30:06.592032",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 16,
+    "price": 134.96,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (4.52%), short."
+    ]
   }
 ]
