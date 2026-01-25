@@ -26025,5 +26025,15 @@
     "reason": [
       "Pairs Trading: GOOG/MA spread z\u2011score=2.82, short MA."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:29:11.913549",
+    "symbol": "GS",
+    "side": "buy",
+    "qty": 2,
+    "price": 919.13,
+    "reason": [
+      "Weekly Reversal: GS was among the 10 worst 1\u2011week performers (-5.84%), long."
+    ]
   }
 ]
