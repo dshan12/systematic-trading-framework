@@ -26107,5 +26107,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 12.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:29:51.632255",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 25,
+    "price": 86.24,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
