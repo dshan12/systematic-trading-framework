@@ -26097,5 +26097,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.13%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:29:46.717298",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 24,
+    "price": 465.81,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 12.5% based on baseline allocation."
+    ]
   }
 ]
