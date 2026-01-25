@@ -26117,5 +26117,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-25T21:29:56.636524",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 1,
+    "price": 144.57,
+    "reason": [
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.09%)."
+    ]
   }
 ]
