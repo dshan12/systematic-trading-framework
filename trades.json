@@ -26217,5 +26217,15 @@
     "reason": [
       "Pairs Trading: GOOG/MA spread z\u2011score=2.83, short MA."
     ]
+  },
+  {
+    "timestamp": "2026-01-26T21:34:14.181965",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 5,
+    "price": 528.9,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
