@@ -26257,5 +26257,15 @@
     "reason": [
       "Pairs Trading: GOOG/MA spread z\u2011score=2.83, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2026-01-26T21:34:35.452313",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 11,
+    "price": 194.0,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-3.86%), long."
+    ]
   }
 ]
