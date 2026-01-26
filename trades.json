@@ -26157,5 +26157,15 @@
     "reason": [
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-26T21:33:42.276056",
+    "symbol": "BLK",
+    "side": "buy",
+    "qty": 1,
+    "price": 1121.66,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-3.58%), long."
+    ]
   }
 ]
