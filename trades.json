@@ -26247,5 +26247,15 @@
     "reason": [
       "Weekly Reversal: LIN was among the 10 best 1\u2011week performers (3.66%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-26T21:34:30.046254",
+    "symbol": "MA",
+    "side": "sell",
+    "qty": 4,
+    "price": 527.43,
+    "reason": [
+      "Pairs Trading: GOOG/MA spread z\u2011score=2.83, long GOOG."
+    ]
   }
 ]
