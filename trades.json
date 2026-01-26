@@ -26207,5 +26207,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-3.34%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-26T21:34:08.744790",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 1,
+    "price": 333.66,
+    "reason": [
+      "Pairs Trading: GOOG/MA spread z\u2011score=2.83, short MA."
+    ]
   }
 ]
