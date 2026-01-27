@@ -26418,5 +26418,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:29:11.803824",
+    "symbol": "MA",
+    "side": "buy",
+    "qty": 3,
+    "price": 520.31,
+    "reason": [
+      "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-2.13%), long.",
+      "Pairs Trading: GOOG/MA spread z\u2011score=2.95, long GOOG."
+    ]
   }
 ]
