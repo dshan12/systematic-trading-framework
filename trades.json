@@ -26388,5 +26388,15 @@
     "reason": [
       "Pairs Trading: GOOG/MA spread z\u2011score=2.95, short MA."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:28:56.475956",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 2,
+    "price": 929.28,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.1% based on baseline allocation."
+    ]
   }
 ]
