@@ -26469,5 +26469,15 @@
     "reason": [
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:29:37.162620",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 14,
+    "price": 148.355,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
