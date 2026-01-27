@@ -26519,5 +26519,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-1.49%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:30:03.212191",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 16,
+    "price": 136.82,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
