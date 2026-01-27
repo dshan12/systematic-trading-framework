@@ -26378,5 +26378,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:28:51.572543",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 1,
+    "price": 334.93,
+    "reason": [
+      "Pairs Trading: GOOG/MA spread z\u2011score=2.95, short MA."
+    ]
   }
 ]
