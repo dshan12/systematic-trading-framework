@@ -26358,5 +26358,15 @@
     "reason": [
       "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (6.08%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:28:41.286039",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 6,
+    "price": 323.19,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-12.03%), long."
+    ]
   }
 ]
