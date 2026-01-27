@@ -26267,5 +26267,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-3.86%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-27T21:27:53.133191",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 14,
+    "price": 254.285,
+    "reason": [
+      "Low Volatility: ADP is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
