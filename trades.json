@@ -26619,5 +26619,16 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-7.23%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:39:59.386888",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 9,
+    "price": 227.77,
+    "reason": [
+      "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (4.45%), short.",
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
