@@ -26589,5 +26589,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.89%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:39:43.407631",
+    "symbol": "CSCO",
+    "side": "sell",
+    "qty": 1,
+    "price": 78.96,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (7.15%), short."
+    ]
   }
 ]
