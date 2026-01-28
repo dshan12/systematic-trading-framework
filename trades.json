@@ -26740,5 +26740,15 @@
     "reason": [
       "Low Volatility: VZ is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:41:02.162562",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 18,
+    "price": 116.57,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
