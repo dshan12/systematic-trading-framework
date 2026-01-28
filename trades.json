@@ -26630,5 +26630,15 @@
       "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (4.45%), short.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:40:04.562846",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 1,
+    "price": 300.6,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 0.3% based on baseline allocation."
+    ]
   }
 ]
