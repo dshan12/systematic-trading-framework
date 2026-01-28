@@ -26670,5 +26670,15 @@
     "reason": [
       "Pairs Trading: GOOG/MA spread z\u2011score=2.92, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:40:25.217085",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 4,
+    "price": 459.99,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 best 1\u2011week performers (8.45%), short."
+    ]
   }
 ]
