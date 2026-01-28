@@ -26539,5 +26539,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-12.16%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:39:17.722190",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 14,
+    "price": 250.74,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.9% based on baseline allocation."
+    ]
   }
 ]
