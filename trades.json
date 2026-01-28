@@ -26549,5 +26549,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-28T21:39:22.922799",
+    "symbol": "AMD",
+    "side": "sell",
+    "qty": 13,
+    "price": 252.63,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.7% based on baseline allocation."
+    ]
   }
 ]
