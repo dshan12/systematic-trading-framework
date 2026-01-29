@@ -26770,5 +26770,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-8.37%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:37:38.940647",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 9,
+    "price": 241.625,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
