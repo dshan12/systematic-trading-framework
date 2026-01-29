@@ -26840,5 +26840,15 @@
     "reason": [
       "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (5.84%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:38:08.346691",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 19,
+    "price": 112.04,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (5.42%), short."
+    ]
   }
 ]
