@@ -27000,5 +27000,15 @@
     "reason": [
       "Low Volatility: VZ is in the lowest decile of 60\u2011day vol (1.01%)."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:39:15.438007",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 15,
+    "price": 140.43,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (5.14%), short."
+    ]
   }
 ]
