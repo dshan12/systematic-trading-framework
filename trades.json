@@ -26970,5 +26970,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:39:02.943445",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 12,
+    "price": 177.92,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
