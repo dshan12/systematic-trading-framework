@@ -26800,5 +26800,15 @@
     "reason": [
       "Pairs Trading: CAT/MSFT spread z\u2011score=3.52, short MSFT."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:37:51.499805",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 20,
+    "price": 102.8,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 best 1\u2011week performers (6.11%), short."
+    ]
   }
 ]
