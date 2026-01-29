@@ -26750,5 +26750,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:37:30.324612",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 21,
+    "price": 105.97,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
