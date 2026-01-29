@@ -26890,5 +26890,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (4.94%), short."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:38:29.259299",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 4,
+    "price": 502.68,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-8.16%), long."
+    ]
   }
 ]
