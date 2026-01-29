@@ -26820,5 +26820,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.14%), long."
     ]
+  },
+  {
+    "timestamp": "2026-01-29T21:37:59.688974",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 4,
+    "price": 444.54,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.0% based on baseline allocation."
+    ]
   }
 ]
