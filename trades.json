@@ -27020,5 +27020,15 @@
     "reason": [
       "Weekly Reversal: AMD was among the 10 worst 1\u2011week performers (-8.84%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-01T21:32:19.921790",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 12,
+    "price": 657.285,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (4.91%), short."
+    ]
   }
 ]
