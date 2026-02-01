@@ -27060,5 +27060,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (6.11%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-01T21:32:36.543343",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 1,
+    "price": 218.9,
+    "reason": [
+      "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-6.86%), long."
+    ]
   }
 ]
