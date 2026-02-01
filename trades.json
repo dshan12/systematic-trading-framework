@@ -27040,5 +27040,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (5.98%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-01T21:32:28.107669",
+    "symbol": "CSX",
+    "side": "buy",
+    "qty": 56,
+    "price": 37.77,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
