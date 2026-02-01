@@ -27100,5 +27100,15 @@
     "reason": [
       "Pairs Trading: GOOG/MSFT spread z\u2011score=3.14, short MSFT."
     ]
+  },
+  {
+    "timestamp": "2026-02-01T21:32:53.592077",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 1,
+    "price": 306.62,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (4.88%), short."
+    ]
   }
 ]
