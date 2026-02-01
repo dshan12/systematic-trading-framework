@@ -27070,5 +27070,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-6.86%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-01T21:32:40.726197",
+    "symbol": "EOG",
+    "side": "buy",
+    "qty": 19,
+    "price": 112.16,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
