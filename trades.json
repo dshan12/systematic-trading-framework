@@ -27140,5 +27140,16 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.01%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-01T21:33:10.853888",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 14,
+    "price": 153.64,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (6.26%), short.",
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
