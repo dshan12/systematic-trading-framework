@@ -27332,5 +27332,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-03T21:45:55.945671",
+    "symbol": "MA",
+    "side": "sell",
+    "qty": 3,
+    "price": 551.03,
+    "reason": [
+      "Weekly Reversal: MA was among the 10 best 1\u2011week performers (5.82%), short."
+    ]
   }
 ]
