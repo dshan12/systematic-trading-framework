@@ -27201,5 +27201,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-03T21:44:52.944955",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 14,
+    "price": 702.97,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (10.01%), short.",
+      "Pairs Trading: CAT/MSFT spread z\u2011score=4.02, short MSFT."
+    ]
   }
 ]
