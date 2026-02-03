@@ -27372,5 +27372,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (7.34%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-03T21:46:15.517379",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 6,
+    "price": 284.23,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -1.9% based on baseline allocation."
+    ]
   }
 ]
