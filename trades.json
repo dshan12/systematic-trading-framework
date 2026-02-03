@@ -27252,5 +27252,15 @@
     "reason": [
       "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (6.71%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-03T21:45:16.734051",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 12,
+    "price": 178.03,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
