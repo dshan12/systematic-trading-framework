@@ -27392,5 +27392,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (9.21%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-04T21:42:27.016179",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 1,
+    "price": 241.69,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-10.64%), long."
+    ]
   }
 ]
