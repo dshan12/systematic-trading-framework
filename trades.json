@@ -27464,5 +27464,15 @@
     "reason": [
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.16%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-04T21:43:04.877405",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 1,
+    "price": 199.42,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-12.51%), long."
+    ]
   }
 ]
