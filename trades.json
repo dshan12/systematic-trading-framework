@@ -27564,5 +27564,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (8.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-04T21:43:58.173590",
+    "symbol": "MA",
+    "side": "buy",
+    "qty": 3,
+    "price": 553.315,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -1.8% based on baseline allocation."
+    ]
   }
 ]
