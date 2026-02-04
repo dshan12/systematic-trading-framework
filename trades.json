@@ -27554,5 +27554,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-04T21:43:52.911853",
+    "symbol": "LLY",
+    "side": "sell",
+    "qty": 2,
+    "price": 1108.03,
+    "reason": [
+      "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (8.14%), short."
+    ]
   }
 ]
