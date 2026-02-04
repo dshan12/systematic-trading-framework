@@ -27614,5 +27614,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-9.05%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-04T21:44:25.226830",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 3,
+    "price": 564.97,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 1.9% based on baseline allocation."
+    ]
   }
 ]
