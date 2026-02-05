@@ -27795,5 +27795,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-05T21:40:22.325453",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 1,
+    "price": 323.5,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.03%)."
+    ]
   }
 ]
