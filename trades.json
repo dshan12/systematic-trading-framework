@@ -27684,5 +27684,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-05T21:39:34.273671",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 19,
+    "price": 678.61,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -14.1% based on baseline allocation."
+    ]
   }
 ]
