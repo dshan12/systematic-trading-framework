@@ -27805,5 +27805,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-05T21:40:26.619549",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 3,
+    "price": 667.12,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-9.22%), long."
+    ]
   }
 ]
