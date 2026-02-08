@@ -27875,5 +27875,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-8.73%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-08T21:36:35.418261",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 8,
+    "price": 268.51,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-8.48%), long."
+    ]
   }
 ]
