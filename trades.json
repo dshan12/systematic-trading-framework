@@ -27986,5 +27986,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (7.43%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-08T21:37:20.299019",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 42,
+    "price": 50.56,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (8.87%), short."
+    ]
   }
 ]
