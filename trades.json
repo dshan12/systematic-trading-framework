@@ -28056,5 +28056,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-9.40%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-08T21:37:47.513670",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 93,
+    "price": 46.28,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.7% based on baseline allocation."
+    ]
   }
 ]
