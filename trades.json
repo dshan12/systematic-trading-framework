@@ -27936,5 +27936,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-08T21:37:00.189859",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 2,
+    "price": 302.27,
+    "reason": [
+      "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.16%)."
+    ]
   }
 ]
