@@ -28026,5 +28026,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.04%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-08T21:37:36.041585",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 4,
+    "price": 121.88,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (10.57%), short."
+    ]
   }
 ]
