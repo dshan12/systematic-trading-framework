@@ -27855,5 +27855,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (8.12%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-08T21:36:27.436904",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 14,
+    "price": 277.5,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.3% based on baseline allocation."
+    ]
   }
 ]
