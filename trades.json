@@ -28096,5 +28096,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-8.46%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-09T21:50:46.008420",
+    "symbol": "CI",
+    "side": "sell",
+    "qty": 7,
+    "price": 294.5,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 best 1\u2011week performers (8.42%), short."
+    ]
   }
 ]
