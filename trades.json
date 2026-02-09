@@ -28076,5 +28076,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (10.11%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-09T21:50:37.117777",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 13,
+    "price": 274.5,
+    "reason": [
+      "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.17%)."
+    ]
   }
 ]
