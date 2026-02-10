@@ -28416,5 +28416,15 @@
     "reason": [
       "Weekly Reversal: PFE was among the 10 best 1\u2011week performers (7.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-10T21:56:21.070303",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 11,
+    "price": 195.17,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-4.08%), long."
+    ]
   }
 ]
