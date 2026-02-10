@@ -28396,5 +28396,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.04%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-10T21:56:09.662684",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 11,
+    "price": 167.005,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.0% based on baseline allocation."
+    ]
   }
 ]
