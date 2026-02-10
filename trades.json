@@ -28206,5 +28206,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (9.26%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-10T21:54:25.498160",
+    "symbol": "ACN",
+    "side": "sell",
+    "qty": 10,
+    "price": 240.925,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
