@@ -28316,5 +28316,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 best 1\u2011week performers (5.51%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-10T21:55:25.571509",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 2,
+    "price": 856.67,
+    "reason": [
+      "Weekly Reversal: EQIX was among the 10 best 1\u2011week performers (6.85%), short."
+    ]
   }
 ]
