@@ -28576,5 +28576,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.17%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-11T21:43:09.104960",
+    "symbol": "LLY",
+    "side": "buy",
+    "qty": 2,
+    "price": 1015.01,
+    "reason": [
+      "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-8.30%), long."
+    ]
   }
 ]
