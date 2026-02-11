@@ -28486,5 +28486,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.24%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-11T21:42:17.913209",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 19,
+    "price": 108.105,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
