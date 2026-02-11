@@ -28456,5 +28456,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-7.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-11T21:42:00.717933",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 6,
+    "price": 366.53,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
