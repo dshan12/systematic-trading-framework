@@ -28556,5 +28556,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-11T21:42:57.387012",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 5,
+    "price": 399.655,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-10.31%), long."
+    ]
   }
 ]
