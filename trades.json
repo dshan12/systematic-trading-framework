@@ -28446,5 +28446,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-8.06%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-11T21:41:54.817959",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 9,
+    "price": 217.54,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-7.29%), long."
+    ]
   }
 ]
