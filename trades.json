@@ -28476,5 +28476,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 best 1\u2011week performers (8.47%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-11T21:42:12.344357",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 11,
+    "price": 185.04,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.24%), long."
+    ]
   }
 ]
