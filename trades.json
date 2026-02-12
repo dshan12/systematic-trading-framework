@@ -28707,5 +28707,15 @@
     "reason": [
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.18%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:43:59.832866",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 68,
+    "price": 31.84,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
