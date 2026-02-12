@@ -28727,5 +28727,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:44:08.654461",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 5,
+    "price": 411.655,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (9.12%), short."
+    ]
   }
 ]
