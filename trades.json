@@ -28656,5 +28656,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:43:37.501217",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 52,
+    "price": 209.88,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-10.27%), long.",
+      "Pairs Trading: ADP/HON spread z\u2011score=-5.18, long ADP."
+    ]
   }
 ]
