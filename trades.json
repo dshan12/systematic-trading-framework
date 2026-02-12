@@ -28777,5 +28777,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-10.48%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:44:30.674705",
+    "symbol": "LLY",
+    "side": "sell",
+    "qty": 2,
+    "price": 1038.275,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
