@@ -28677,5 +28677,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (9.74%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:43:46.519144",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 14,
+    "price": 758.62,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (11.79%), short."
+    ]
   }
 ]
