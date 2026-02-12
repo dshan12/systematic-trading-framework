@@ -28757,5 +28757,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-6.63%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:44:22.012807",
+    "symbol": "HON",
+    "side": "sell",
+    "qty": 45,
+    "price": 239.68,
+    "reason": [
+      "Pairs Trading: ADP/HON spread z\u2011score=-5.18, short HON."
+    ]
   }
 ]
