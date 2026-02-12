@@ -28797,5 +28797,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -1.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:44:39.157376",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 4,
+    "price": 509.79,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
