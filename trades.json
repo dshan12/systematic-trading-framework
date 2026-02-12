@@ -28636,5 +28636,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:43:28.822655",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 13,
+    "price": 261.68,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.7% based on baseline allocation."
+    ]
   }
 ]
