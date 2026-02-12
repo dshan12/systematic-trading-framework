@@ -28767,5 +28767,15 @@
     "reason": [
       "Pairs Trading: ADP/HON spread z\u2011score=-5.18, short HON."
     ]
+  },
+  {
+    "timestamp": "2026-02-12T21:44:26.263491",
+    "symbol": "IBM",
+    "side": "buy",
+    "qty": 8,
+    "price": 259.46,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-10.48%), long."
+    ]
   }
 ]
