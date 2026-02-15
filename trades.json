@@ -29048,5 +29048,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (5.98%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:35:33.735931",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 47,
+    "price": 48.98,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 best 1\u2011week performers (5.83%), short."
+    ]
   }
 ]
