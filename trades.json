@@ -28858,5 +28858,15 @@
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-8.32%), long.",
       "Pairs Trading: ADP/LIN spread z\u2011score=-4.93, long ADP."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:34:19.500162",
+    "symbol": "AMD",
+    "side": "sell",
+    "qty": 11,
+    "price": 207.14,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
