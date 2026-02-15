@@ -28898,5 +28898,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:34:35.331216",
+    "symbol": "BDX",
+    "side": "buy",
+    "qty": 1,
+    "price": 175.72,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-16.25%), long."
+    ]
   }
 ]
