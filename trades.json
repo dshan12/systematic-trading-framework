@@ -28958,5 +28958,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (6.18%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:34:58.652420",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 1,
+    "price": 389.23,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (4.13%), short."
+    ]
   }
 ]
