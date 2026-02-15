@@ -28827,5 +28827,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -0.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:34:07.208017",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 9,
+    "price": 255.755,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-8.03%), long."
+    ]
   }
 ]
