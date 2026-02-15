@@ -28847,5 +28847,16 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (3.61%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:34:15.404202",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 5,
+    "price": 212.075,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-8.32%), long.",
+      "Pairs Trading: ADP/LIN spread z\u2011score=-4.93, long ADP."
+    ]
   }
 ]
