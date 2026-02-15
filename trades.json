@@ -28948,5 +28948,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-15T21:34:54.811978",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 19,
+    "price": 120.75,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (6.18%), short."
+    ]
   }
 ]
