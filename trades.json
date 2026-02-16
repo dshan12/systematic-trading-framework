@@ -29139,5 +29139,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.18%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-16T21:39:16.032988",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 19,
+    "price": 120.75,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (6.18%), short."
+    ]
   }
 ]
