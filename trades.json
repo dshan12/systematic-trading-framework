@@ -29159,5 +29159,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (4.13%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-16T21:39:24.790455",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 1,
+    "price": 152.26,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-9.89%), long."
+    ]
   }
 ]
