@@ -29119,5 +29119,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-16.25%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-16T21:39:07.192750",
+    "symbol": "CME",
+    "side": "buy",
+    "qty": 1,
+    "price": 303.14,
+    "reason": [
+      "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.15%)."
+    ]
   }
 ]
