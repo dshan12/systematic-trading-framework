@@ -29099,5 +29099,15 @@
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-8.32%), long.",
       "Pairs Trading: ADP/LIN spread z\u2011score=-4.93, long ADP."
     ]
+  },
+  {
+    "timestamp": "2026-02-16T21:38:58.507856",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 1,
+    "price": 192.08,
+    "reason": [
+      "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (12.16%), short."
+    ]
   }
 ]
