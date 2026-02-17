@@ -29389,5 +29389,16 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-17T21:45:32.421754",
+    "symbol": "LIN",
+    "side": "sell",
+    "qty": 4,
+    "price": 481.98,
+    "reason": [
+      "Weekly Reversal: LIN was among the 10 best 1\u2011week performers (5.67%), short.",
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.16%)."
+    ]
   }
 ]
