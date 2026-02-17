@@ -29269,5 +29269,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (11.16%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-17T21:44:45.987757",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 1,
+    "price": 177.4,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-14.47%), long."
+    ]
   }
 ]
