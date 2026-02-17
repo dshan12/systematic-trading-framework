@@ -29259,5 +29259,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 16.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-17T21:44:42.277535",
+    "symbol": "AMT",
+    "side": "buy",
+    "qty": 1,
+    "price": 193.02,
+    "reason": [
+      "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (11.16%), short."
+    ]
   }
 ]
