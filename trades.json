@@ -29359,5 +29359,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-6.88%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-17T21:45:20.773544",
+    "symbol": "ICE",
+    "side": "sell",
+    "qty": 1,
+    "price": 153.615,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-9.46%), long."
+    ]
   }
 ]
