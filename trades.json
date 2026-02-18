@@ -29520,5 +29520,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.18%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-18T21:43:12.098389",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 11,
+    "price": 208.51,
+    "reason": [
+      "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-5.09%), long."
+    ]
   }
 ]
