@@ -29500,5 +29500,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (4.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-18T21:43:01.994649",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 14,
+    "price": 752.21,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -11.5% based on baseline allocation."
+    ]
   }
 ]
