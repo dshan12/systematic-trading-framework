@@ -29470,5 +29470,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-18T21:42:46.785099",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 54,
+    "price": 217.19,
+    "reason": [
+      "Pairs Trading: ADP/LIN spread z\u2011score=-4.59, long ADP."
+    ]
   }
 ]
