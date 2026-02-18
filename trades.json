@@ -29610,5 +29610,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-5.13%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-18T21:43:57.447431",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 35,
+    "price": 65.55,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
