@@ -29731,5 +29731,15 @@
     "reason": [
       "Pairs Trading: DE/DIS spread z\u2011score=5.00, long DE."
     ]
+  },
+  {
+    "timestamp": "2026-02-19T21:43:01.461537",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 6,
+    "price": 377.2,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-4.74%), long."
+    ]
   }
 ]
