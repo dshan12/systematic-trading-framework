@@ -29782,5 +29782,15 @@
       "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (2.51%), short.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.02%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-19T21:43:29.018425",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 30,
+    "price": 76.98,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
