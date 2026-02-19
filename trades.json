@@ -29670,5 +29670,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-6.72%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-19T21:42:29.385819",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 54,
+    "price": 215.96,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 12.8% based on baseline allocation."
+    ]
   }
 ]
