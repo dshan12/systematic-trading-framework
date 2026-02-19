@@ -29761,5 +29761,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-19T21:43:18.330448",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 53,
+    "price": 44.61,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-7.60%), long."
+    ]
   }
 ]
