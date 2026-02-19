@@ -29802,5 +29802,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (5.23%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-19T21:43:39.863434",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 4,
+    "price": 515.17,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
