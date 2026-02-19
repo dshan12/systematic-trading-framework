@@ -29660,5 +29660,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-5.42%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-19T21:42:24.253377",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 1,
+    "price": 214.95,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-6.72%), long."
+    ]
   }
 ]
