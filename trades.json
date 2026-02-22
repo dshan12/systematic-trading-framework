@@ -29923,5 +29923,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-22T21:34:39.795398",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 89,
+    "price": 26.675,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-2.99%), long."
+    ]
   }
 ]
