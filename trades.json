@@ -29842,5 +29842,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (5.27%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-22T21:33:57.973757",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 6,
+    "price": 388.65,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-5.57%), long."
+    ]
   }
 ]
