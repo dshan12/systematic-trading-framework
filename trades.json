@@ -29883,5 +29883,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-22T21:34:18.680983",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 6,
+    "price": 342.94,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
