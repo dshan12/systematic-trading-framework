@@ -30013,5 +30013,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (2.77%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-23T21:56:18.881130",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 15,
+    "price": 756.6,
+    "reason": [
+      "Pairs Trading: CAT/IBM spread z\u2011score=3.64, short IBM."
+    ]
   }
 ]
