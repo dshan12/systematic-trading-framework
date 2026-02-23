@@ -30145,5 +30145,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.78%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-23T21:57:14.634432",
+    "symbol": "PFE",
+    "side": "sell",
+    "qty": 88,
+    "price": 27.06,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
