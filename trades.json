@@ -30397,5 +30397,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.02%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:47:51.557573",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 1,
+    "price": 192.865,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.26%), short."
+    ]
   }
 ]
