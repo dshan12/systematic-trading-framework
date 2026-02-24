@@ -30427,5 +30427,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 best 1\u2011week performers (3.59%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:48:08.449547",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 11,
+    "price": 213.35,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-5.47%), long."
+    ]
   }
 ]
