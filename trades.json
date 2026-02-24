@@ -30255,5 +30255,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:46:35.529120",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 1,
+    "price": 768.47,
+    "reason": [
+      "Pairs Trading: CAT/CRWD spread z\u2011score=3.87, short CRWD."
+    ]
   }
 ]
