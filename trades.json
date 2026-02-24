@@ -30286,5 +30286,16 @@
       "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-15.46%), long.",
       "Pairs Trading: CAT/CRWD spread z\u2011score=3.87, long CAT."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:46:51.688930",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 54,
+    "price": 42.48,
+    "reason": [
+      "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (3.51%), short.",
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.17%)."
+    ]
   }
 ]
