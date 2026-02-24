@@ -30417,5 +30417,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (4.71%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:48:03.178723",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 1,
+    "price": 165.265,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 best 1\u2011week performers (3.59%), short."
+    ]
   }
 ]
