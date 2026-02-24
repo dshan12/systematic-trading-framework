@@ -30245,5 +30245,15 @@
     "reason": [
       "Weekly Reversal: AXP was among the 10 worst 1\u2011week performers (-6.98%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:46:30.151865",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 1,
+    "price": 182.46,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 0.2% based on baseline allocation."
+    ]
   }
 ]
