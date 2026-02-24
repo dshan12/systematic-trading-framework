@@ -30297,5 +30297,15 @@
       "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (3.51%), short.",
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.17%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:46:57.005713",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 34,
+    "price": 74.17,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 worst 1\u2011week performers (-5.14%), long."
+    ]
   }
 ]
