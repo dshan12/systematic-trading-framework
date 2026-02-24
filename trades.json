@@ -30265,5 +30265,15 @@
     "reason": [
       "Pairs Trading: CAT/CRWD spread z\u2011score=3.87, short CRWD."
     ]
+  },
+  {
+    "timestamp": "2026-02-24T21:46:41.046305",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 13,
+    "price": 185.42,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
