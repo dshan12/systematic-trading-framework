@@ -30578,5 +30578,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-25T21:44:16.625180",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 8,
+    "price": 263.05,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-6.77%), long."
+    ]
   }
 ]
