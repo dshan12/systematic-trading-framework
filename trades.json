@@ -30618,5 +30618,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 best 1\u2011week performers (6.04%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-25T21:44:36.179190",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 1,
+    "price": 201.77,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.03%), short."
+    ]
   }
 ]
