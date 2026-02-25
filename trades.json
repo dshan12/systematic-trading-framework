@@ -30628,5 +30628,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.03%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-25T21:44:40.808218",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 15,
+    "price": 169.18,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
