@@ -30728,5 +30728,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-3.18%), long."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:41:37.879083",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 1,
+    "price": 751.19,
+    "reason": [
+      "Pairs Trading: CAT/IBM spread z\u2011score=3.21, short IBM."
+    ]
   }
 ]
