@@ -30748,5 +30748,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 best 1\u2011week performers (4.13%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:41:48.333152",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 11,
+    "price": 199.47,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (7.65%), short."
+    ]
   }
 ]
