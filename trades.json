@@ -30788,5 +30788,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:42:09.326965",
+    "symbol": "IBM",
+    "side": "buy",
+    "qty": 45,
+    "price": 241.965,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-5.57%), long.",
+      "Pairs Trading: CAT/IBM spread z\u2011score=3.21, long CAT."
+    ]
   }
 ]
