@@ -30879,5 +30879,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 best 1\u2011week performers (3.27%), short."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:42:55.740675",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 12,
+    "price": 187.51,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
