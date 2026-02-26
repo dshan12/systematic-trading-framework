@@ -30778,5 +30778,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.17%)."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:42:04.325076",
+    "symbol": "GE",
+    "side": "buy",
+    "qty": 7,
+    "price": 340.495,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
