@@ -30799,5 +30799,15 @@
       "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-5.57%), long.",
       "Pairs Trading: CAT/IBM spread z\u2011score=3.21, long CAT."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:42:14.528777",
+    "symbol": "ICE",
+    "side": "sell",
+    "qty": 13,
+    "price": 162.87,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 best 1\u2011week performers (5.70%), short."
+    ]
   }
 ]
