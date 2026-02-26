@@ -30738,5 +30738,15 @@
     "reason": [
       "Pairs Trading: CAT/IBM spread z\u2011score=3.21, short IBM."
     ]
+  },
+  {
+    "timestamp": "2026-02-26T21:41:43.051208",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 7,
+    "price": 316.43,
+    "reason": [
+      "Weekly Reversal: CME was among the 10 best 1\u2011week performers (4.13%), short."
+    ]
   }
 ]
