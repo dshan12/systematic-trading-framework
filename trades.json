@@ -30959,5 +30959,15 @@
     "reason": [
       "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-6.09%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:32:36.619520",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 12,
+    "price": 176.47,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
