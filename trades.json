@@ -31069,5 +31069,15 @@
     "reason": [
       "Weekly Reversal: EQIX was among the 10 best 1\u2011week performers (4.97%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:33:22.285481",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 16,
+    "price": 148.97,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
