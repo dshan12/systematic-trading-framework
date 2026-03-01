@@ -31029,5 +31029,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:33:05.854415",
+    "symbol": "CSX",
+    "side": "buy",
+    "qty": 27,
+    "price": 42.7,
+    "reason": [
+      "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.15%)."
+    ]
   }
 ]
