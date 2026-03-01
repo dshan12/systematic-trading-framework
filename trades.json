@@ -31059,5 +31059,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-6.69%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:33:18.246367",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 1,
+    "price": 974.63,
+    "reason": [
+      "Weekly Reversal: EQIX was among the 10 best 1\u2011week performers (4.97%), short."
+    ]
   }
 ]
