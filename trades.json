@@ -31109,5 +31109,15 @@
     "reason": [
       "Weekly Reversal: ICE was among the 10 best 1\u2011week performers (6.57%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:33:39.320448",
+    "symbol": "INTU",
+    "side": "sell",
+    "qty": 2,
+    "price": 409.06,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 best 1\u2011week performers (7.48%), short."
+    ]
   }
 ]
