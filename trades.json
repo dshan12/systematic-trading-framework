@@ -31209,5 +31209,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-6.65%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:34:22.297640",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 3,
+    "price": 167.19,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 best 1\u2011week performers (3.99%), short."
+    ]
   }
 ]
