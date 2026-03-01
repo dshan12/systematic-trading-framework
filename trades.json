@@ -31159,5 +31159,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (4.21%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:34:00.875397",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 3,
+    "price": 264.7,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-5.63%), long."
+    ]
   }
 ]
