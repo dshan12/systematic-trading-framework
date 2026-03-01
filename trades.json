@@ -30979,5 +30979,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.89%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:32:44.918823",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 14,
+    "price": 743.04,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -11.9% based on baseline allocation."
+    ]
   }
 ]
