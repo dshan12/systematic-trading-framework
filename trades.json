@@ -31349,5 +31349,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-02T21:43:28.999421",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 17,
+    "price": 163.49,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
