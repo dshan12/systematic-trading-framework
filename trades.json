@@ -31259,5 +31259,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (5.76%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-02T21:42:52.144808",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 9,
+    "price": 317.28,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-3.49%), long."
+    ]
   }
 ]
