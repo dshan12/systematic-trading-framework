@@ -31419,5 +31419,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T21:42:32.240091",
+    "symbol": "AXP",
+    "side": "sell",
+    "qty": 9,
+    "price": 307.95,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
