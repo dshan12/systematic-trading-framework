@@ -31509,5 +31509,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T21:43:07.230669",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 1,
+    "price": 59.4,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-7.33%), long."
+    ]
   }
 ]
