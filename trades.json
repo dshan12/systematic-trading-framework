@@ -31429,5 +31429,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T21:42:36.160719",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 16,
+    "price": 174.235,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
