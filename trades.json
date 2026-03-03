@@ -31459,5 +31459,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-13.18%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T21:42:47.659247",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 8,
+    "price": 355.4,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-5.07%), long."
+    ]
   }
 ]
