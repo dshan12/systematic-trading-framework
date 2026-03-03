@@ -31489,5 +31489,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-6.55%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T21:42:59.554510",
+    "symbol": "LLY",
+    "side": "buy",
+    "qty": 2,
+    "price": 1007.09,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
