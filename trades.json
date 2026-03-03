@@ -31449,5 +31449,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 worst 1\u2011week performers (-5.99%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T21:42:43.711155",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 1,
+    "price": 283.71,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-13.18%), long."
+    ]
   }
 ]
