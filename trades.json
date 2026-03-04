@@ -31669,5 +31669,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-7.51%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-04T21:44:39.415084",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 13,
+    "price": 208.78,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (6.55%), short."
+    ]
   }
 ]
