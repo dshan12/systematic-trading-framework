@@ -31579,5 +31579,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-5.23%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-04T21:43:58.407937",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 1,
+    "price": 115.665,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 best 1\u2011week performers (5.13%), short."
+    ]
   }
 ]
