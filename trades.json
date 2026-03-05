@@ -31869,5 +31869,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 best 1\u2011week performers (17.24%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:47:44.295577",
+    "symbol": "NKE",
+    "side": "sell",
+    "qty": 7,
+    "price": 58.02,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-9.27%), long."
+    ]
   }
 ]
