@@ -31819,5 +31819,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-5.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:47:23.619690",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 1,
+    "price": 466.83,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 best 1\u2011week performers (18.35%), short."
+    ]
   }
 ]
