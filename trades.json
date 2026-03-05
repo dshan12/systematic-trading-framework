@@ -31910,5 +31910,15 @@
       "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-9.49%), long.",
       "Pairs Trading: JNJ/PM spread z\u2011score=2.02, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:48:00.783600",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 17,
+    "price": 137.05,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-5.90%), long."
+    ]
   }
 ]
