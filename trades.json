@@ -31899,5 +31899,16 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-5.96%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:47:56.574278",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 68,
+    "price": 169.66,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-9.49%), long.",
+      "Pairs Trading: JNJ/PM spread z\u2011score=2.02, long JNJ."
+    ]
   }
 ]
