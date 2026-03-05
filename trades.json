@@ -31679,5 +31679,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (6.55%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:46:24.234218",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 13,
+    "price": 213.995,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
