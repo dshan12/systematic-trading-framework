@@ -31799,5 +31799,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-11.32%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:47:15.127868",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 18,
+    "price": 131.01,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (8.17%), short."
+    ]
   }
 ]
