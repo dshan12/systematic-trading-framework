@@ -31950,5 +31950,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 best 1\u2011week performers (4.68%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:32:52.354124",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 10,
+    "price": 226.255,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 best 1\u2011week performers (5.54%), short."
+    ]
   }
 ]
