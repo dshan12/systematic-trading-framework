@@ -32010,5 +32010,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (3.76%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:33:15.380476",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 100,
+    "price": 39.94,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.4% based on baseline allocation."
+    ]
   }
 ]
