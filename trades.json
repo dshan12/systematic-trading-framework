@@ -32121,5 +32121,15 @@
     "reason": [
       "Pairs Trading: JNJ/QCOM spread z\u2011score=2.97, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:33:58.755874",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 11,
+    "price": 209.835,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (3.52%), short."
+    ]
   }
 ]
