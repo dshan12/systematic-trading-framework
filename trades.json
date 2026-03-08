@@ -31960,5 +31960,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 best 1\u2011week performers (5.54%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:32:56.227956",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 10,
+    "price": 213.08,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
