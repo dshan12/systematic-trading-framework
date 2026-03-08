@@ -32131,5 +32131,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (3.52%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:34:02.589895",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 46,
+    "price": 51.1,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
