@@ -32090,5 +32090,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:33:46.813301",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 26,
+    "price": 153.625,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-8.12%), long.",
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.25%)."
+    ]
   }
 ]
