@@ -31990,5 +31990,15 @@
     "reason": [
       "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-10.14%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:33:07.709852",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 21,
+    "price": 117.06,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
