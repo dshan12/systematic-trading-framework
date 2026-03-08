@@ -32101,5 +32101,15 @@
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-8.12%), long.",
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.25%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:33:50.923290",
+    "symbol": "PM",
+    "side": "sell",
+    "qty": 70,
+    "price": 169.93,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-9.02%), long."
+    ]
   }
 ]
