@@ -32161,5 +32161,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (8.45%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:42:14.391475",
+    "symbol": "BDX",
+    "side": "buy",
+    "qty": 15,
+    "price": 165.465,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-6.28%), long."
+    ]
   }
 ]
