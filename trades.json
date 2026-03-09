@@ -32202,5 +32202,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (3.03%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:42:34.256911",
+    "symbol": "CSX",
+    "side": "buy",
+    "qty": 62,
+    "price": 40.59,
+    "reason": [
+      "Weekly Reversal: CSX was among the 10 worst 1\u2011week performers (-5.95%), long."
+    ]
   }
 ]
