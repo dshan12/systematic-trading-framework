@@ -32252,5 +32252,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-6.89%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:42:59.109408",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 2,
+    "price": 77.85,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
