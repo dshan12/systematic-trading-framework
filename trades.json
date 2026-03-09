@@ -32302,5 +32302,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.25%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:43:23.883242",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 4,
+    "price": 138.15,
+    "reason": [
+      "Pairs Trading: JNJ/QCOM spread z\u2011score=2.92, long JNJ."
+    ]
   }
 ]
