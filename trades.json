@@ -32312,5 +32312,15 @@
     "reason": [
       "Pairs Trading: JNJ/QCOM spread z\u2011score=2.92, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:43:28.692644",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 11,
+    "price": 208.29,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
