@@ -32262,5 +32262,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:43:04.012068",
+    "symbol": "MRK",
+    "side": "sell",
+    "qty": 20,
+    "price": 117.12,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
