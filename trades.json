@@ -32362,5 +32362,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (2.68%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:37:41.071519",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 4,
+    "price": 716.69,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
