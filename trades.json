@@ -32452,5 +32452,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:38:21.523121",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 13,
+    "price": 250.2,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.5% based on baseline allocation."
+    ]
   }
 ]
