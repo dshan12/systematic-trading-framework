@@ -32402,5 +32402,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:37:58.025399",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 33,
+    "price": 76.325,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 worst 1\u2011week performers (-5.18%), long."
+    ]
   }
 ]
