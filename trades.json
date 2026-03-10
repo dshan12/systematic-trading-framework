@@ -32372,5 +32372,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:37:45.353411",
+    "symbol": "CME",
+    "side": "buy",
+    "qty": 8,
+    "price": 306.33,
+    "reason": [
+      "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-5.78%), long."
+    ]
   }
 ]
