@@ -32483,5 +32483,15 @@
       "Weekly Reversal: LIN was among the 10 worst 1\u2011week performers (-4.73%), long.",
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.18%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:38:34.332945",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 6,
+    "price": 406.28,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
