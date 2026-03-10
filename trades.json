@@ -32382,5 +32382,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-5.78%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:37:49.582224",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 12,
+    "price": 194.92,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
