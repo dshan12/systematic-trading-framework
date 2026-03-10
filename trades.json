@@ -32523,5 +32523,15 @@
     "reason": [
       "Pairs Trading: JNJ/QCOM spread z\u2011score=3.01, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:38:51.182474",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 13,
+    "price": 197.55,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
