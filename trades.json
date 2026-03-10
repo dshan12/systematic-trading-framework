@@ -32432,5 +32432,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-4.31%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:38:10.686607",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 7,
+    "price": 361.16,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
