@@ -32733,5 +32733,16 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.27%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T21:44:03.627820",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 85,
+    "price": 166.9,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-6.81%), long.",
+      "Pairs Trading: JNJ/PM spread z\u2011score=2.21, long JNJ."
+    ]
   }
 ]
