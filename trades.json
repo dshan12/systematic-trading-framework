@@ -32543,5 +32543,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-5.13%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T21:42:47.591253",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 12,
+    "price": 204.75,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
