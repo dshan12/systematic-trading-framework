@@ -32553,5 +32553,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T21:42:51.730012",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 11,
+    "price": 212.63,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
