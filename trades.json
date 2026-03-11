@@ -32723,5 +32723,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.14%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T21:43:59.621854",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 1,
+    "price": 153.33,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.27%)."
+    ]
   }
 ]
