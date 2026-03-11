@@ -32583,5 +32583,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (1.13%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T21:43:03.649244",
+    "symbol": "CSX",
+    "side": "buy",
+    "qty": 59,
+    "price": 40.34,
+    "reason": [
+      "Weekly Reversal: CSX was among the 10 worst 1\u2011week performers (-5.70%), long."
+    ]
   }
 ]
