@@ -32934,5 +32934,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:43:40.666569",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 13,
+    "price": 182.86,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
