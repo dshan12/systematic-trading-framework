@@ -32794,5 +32794,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:42:44.640392",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 8,
+    "price": 311.12,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
