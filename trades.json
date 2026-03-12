@@ -32914,5 +32914,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-6.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:43:32.551207",
+    "symbol": "ICE",
+    "side": "sell",
+    "qty": 15,
+    "price": 158.66,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
