@@ -32954,5 +32954,15 @@
     "reason": [
       "Pairs Trading: JNJ/QCOM spread z\u2011score=2.99, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:43:48.742154",
+    "symbol": "TMO",
+    "side": "buy",
+    "qty": 5,
+    "price": 475.85,
+    "reason": [
+      "Weekly Reversal: TMO was among the 10 worst 1\u2011week performers (-8.28%), long."
+    ]
   }
 ]
