@@ -32944,5 +32944,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:43:44.635625",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 91,
+    "price": 131.19,
+    "reason": [
+      "Pairs Trading: JNJ/QCOM spread z\u2011score=2.99, long JNJ."
+    ]
   }
 ]
