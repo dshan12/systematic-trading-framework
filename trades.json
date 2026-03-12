@@ -32894,5 +32894,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:43:24.269246",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 2,
+    "price": 787.2,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 1.7% based on baseline allocation."
+    ]
   }
 ]
