@@ -32764,5 +32764,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-8.39%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:42:32.925500",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 11,
+    "price": 207.48,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-6.85%), long."
+    ]
   }
 ]
