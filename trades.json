@@ -32774,5 +32774,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-6.85%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T21:42:36.780900",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 7,
+    "price": 335.95,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
