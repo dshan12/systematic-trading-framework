@@ -33035,5 +33035,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-5.48%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-15T21:37:07.962473",
+    "symbol": "DHR",
+    "side": "sell",
+    "qty": 12,
+    "price": 187.46,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
