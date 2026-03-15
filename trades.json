@@ -33115,5 +33115,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.02%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-15T21:37:40.169844",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 10,
+    "price": 237.57,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-5.68%), long."
+    ]
   }
 ]
