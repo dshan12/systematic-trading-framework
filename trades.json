@@ -33065,5 +33065,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (2.20%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-15T21:37:20.128179",
+    "symbol": "GE",
+    "side": "buy",
+    "qty": 7,
+    "price": 299.705,
+    "reason": [
+      "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-7.25%), long."
+    ]
   }
 ]
