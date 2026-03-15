@@ -33015,5 +33015,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-15T21:36:59.795767",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 3,
+    "price": 694.08,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (1.92%), short."
+    ]
   }
 ]
