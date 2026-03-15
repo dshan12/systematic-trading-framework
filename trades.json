@@ -33135,5 +33135,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-15T21:37:48.257221",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 27,
+    "price": 150.605,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.4% based on baseline allocation."
+    ]
   }
 ]
