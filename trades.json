@@ -33185,5 +33185,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-6.25%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-16T21:51:01.227693",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 8,
+    "price": 324.47,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-6.02%), long."
+    ]
   }
 ]
