@@ -33377,5 +33377,15 @@
       "Weekly Reversal: LIN was among the 10 best 1\u2011week performers (2.85%), short.",
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.09%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-16T21:52:15.899633",
+    "symbol": "LOW",
+    "side": "sell",
+    "qty": 10,
+    "price": 242.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
