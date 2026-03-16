@@ -33438,5 +33438,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-16T21:52:39.249951",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 2,
+    "price": 157.24,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (4.51%), short."
+    ]
   }
 ]
