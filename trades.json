@@ -33539,5 +33539,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-17T21:50:09.941969",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 59,
+    "price": 195.21,
+    "reason": [
+      "Pairs Trading: CVX/DHR spread z\u2011score=3.06, long CVX."
+    ]
   }
 ]
