@@ -33629,5 +33629,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-5.81%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-17T21:50:45.219105",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 1,
+    "price": 459.4,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.5% based on baseline allocation."
+    ]
   }
 ]
