@@ -33639,5 +33639,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -0.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-17T21:50:49.206602",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 7,
+    "price": 77.59,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.03%)."
+    ]
   }
 ]
