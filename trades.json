@@ -33669,5 +33669,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-4.54%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-17T21:51:01.446413",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 1,
+    "price": 326.23,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.93%)."
+    ]
   }
 ]
