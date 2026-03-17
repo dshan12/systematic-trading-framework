@@ -33689,5 +33689,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.80%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-17T21:51:09.849641",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 26,
+    "price": 151.51,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.26%)."
+    ]
   }
 ]
