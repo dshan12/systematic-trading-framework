@@ -33549,5 +33549,15 @@
     "reason": [
       "Pairs Trading: CVX/DHR spread z\u2011score=3.06, long CVX."
     ]
+  },
+  {
+    "timestamp": "2026-03-17T21:50:13.984982",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 1,
+    "price": 296.1,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (4.62%), short."
+    ]
   }
 ]
