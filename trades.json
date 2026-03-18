@@ -33811,5 +33811,15 @@
     "reason": [
       "Pairs Trading: CVX/DHR spread z\u2011score=3.23, long CVX."
     ]
+  },
+  {
+    "timestamp": "2026-03-18T21:45:26.352380",
+    "symbol": "EQIX",
+    "side": "buy",
+    "qty": 2,
+    "price": 973.79,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
