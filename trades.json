@@ -33881,5 +33881,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-6.40%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-18T21:46:02.227200",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 3,
+    "price": 615.56,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.0% based on baseline allocation."
+    ]
   }
 ]
