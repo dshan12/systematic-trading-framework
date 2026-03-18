@@ -33780,5 +33780,15 @@
     "reason": [
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.29%)."
     ]
+  },
+  {
+    "timestamp": "2026-03-18T21:45:11.697213",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 30,
+    "price": 77.615,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
