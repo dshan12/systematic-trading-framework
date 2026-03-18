@@ -33739,5 +33739,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-6.93%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-18T21:44:51.730123",
+    "symbol": "BLK",
+    "side": "sell",
+    "qty": 2,
+    "price": 968.81,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 best 1\u2011week performers (1.80%), short."
+    ]
   }
 ]
