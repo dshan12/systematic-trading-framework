@@ -33861,5 +33861,15 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 best 1\u2011week performers (1.44%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-18T21:45:51.949842",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 2,
+    "price": 75.97,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
