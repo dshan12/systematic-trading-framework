@@ -33921,5 +33921,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-8.82%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-19T21:45:34.152064",
+    "symbol": "AMD",
+    "side": "sell",
+    "qty": 10,
+    "price": 205.24,
+    "reason": [
+      "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (3.81%), short."
+    ]
   }
 ]
