@@ -34022,5 +34022,15 @@
     "reason": [
       "Pairs Trading: CVX/DHR spread z\u2011score=3.39, long CVX."
     ]
+  },
+  {
+    "timestamp": "2026-03-19T21:46:13.542971",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 8,
+    "price": 291.4,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
