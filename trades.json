@@ -34133,5 +34133,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.93%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-19T21:46:56.139427",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 13,
+    "price": 163.38,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-5.02%), long."
+    ]
   }
 ]
