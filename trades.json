@@ -33991,5 +33991,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (4.79%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-19T21:46:01.855885",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 30,
+    "price": 71.855,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 worst 1\u2011week performers (-5.53%), long."
+    ]
   }
 ]
