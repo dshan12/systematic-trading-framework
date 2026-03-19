@@ -34012,5 +34012,15 @@
       "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (2.27%), short.",
       "Pairs Trading: CVX/DHR spread z\u2011score=3.39, short DHR."
     ]
+  },
+  {
+    "timestamp": "2026-03-19T21:46:09.610426",
+    "symbol": "DHR",
+    "side": "sell",
+    "qty": 5,
+    "price": 190.16,
+    "reason": [
+      "Pairs Trading: CVX/DHR spread z\u2011score=3.39, long CVX."
+    ]
   }
 ]
