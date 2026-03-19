@@ -34052,5 +34052,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (3.32%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-19T21:46:25.280171",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 2,
+    "price": 809.74,
+    "reason": [
+      "Weekly Reversal: GS was among the 10 best 1\u2011week performers (2.79%), short."
+    ]
   }
 ]
