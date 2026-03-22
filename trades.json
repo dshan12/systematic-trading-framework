@@ -34283,5 +34283,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-6.15%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-22T21:35:58.894668",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 4,
+    "price": 474.51,
+    "reason": [
+      "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (2.16%), short."
+    ]
   }
 ]
