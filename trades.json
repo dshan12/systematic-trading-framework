@@ -34243,5 +34243,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-5.54%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-22T21:35:42.299913",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 9,
+    "price": 224.69,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-5.45%), long."
+    ]
   }
 ]
