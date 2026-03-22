@@ -34213,5 +34213,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-7.42%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-22T21:35:29.592551",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 6,
+    "price": 356.71,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
