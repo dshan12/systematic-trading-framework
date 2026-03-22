@@ -34223,5 +34223,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-22T21:35:33.797878",
+    "symbol": "GE",
+    "side": "sell",
+    "qty": 8,
+    "price": 286.535,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
