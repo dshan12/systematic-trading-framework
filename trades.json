@@ -34193,5 +34193,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-22T21:35:20.431321",
+    "symbol": "AVGO",
+    "side": "sell",
+    "qty": 7,
+    "price": 312.35,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
