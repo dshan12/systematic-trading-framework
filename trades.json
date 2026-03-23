@@ -34445,5 +34445,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-5.59%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:48:25.456530",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 18,
+    "price": 120.69,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
