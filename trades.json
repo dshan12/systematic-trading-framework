@@ -34415,5 +34415,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-5.34%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:48:09.535219",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 11,
+    "price": 194.9,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-5.45%), long."
+    ]
   }
 ]
