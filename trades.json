@@ -34425,5 +34425,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-5.45%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:48:15.046820",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 5,
+    "price": 380.79,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.1% based on baseline allocation."
+    ]
   }
 ]
