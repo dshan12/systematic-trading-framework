@@ -34323,5 +34323,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-5.93%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:47:23.458728",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 1,
+    "price": 127.185,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 best 1\u2011week performers (4.84%), short."
+    ]
   }
 ]
