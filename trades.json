@@ -34364,5 +34364,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-5.42%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:47:44.359026",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 5,
+    "price": 457.39,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
