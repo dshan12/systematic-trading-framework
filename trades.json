@@ -34354,5 +34354,15 @@
       "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (4.25%), short.",
       "Pairs Trading: CVX/DHR spread z\u2011score=3.47, short DHR."
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:47:39.150930",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 15,
+    "price": 137.34,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-5.42%), long."
+    ]
   }
 ]
