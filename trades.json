@@ -34696,5 +34696,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-24T21:50:21.754339",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 11,
+    "price": 194.095,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
