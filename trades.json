@@ -34485,5 +34485,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-7.95%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-24T21:48:52.350326",
+    "symbol": "BLK",
+    "side": "buy",
+    "qty": 2,
+    "price": 976.01,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
