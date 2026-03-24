@@ -159,3 +159,7 @@ A GitHub Action (`.github/workflows/daily-trade.yml`) is included to run live tr
 
 ## License
 MIT — see `LICENSE`.
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/quant-research)
