@@ -34516,5 +34516,15 @@
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (5.27%), short.",
       "Pairs Trading: COP/WFC spread z\u2011score=2.71, short WFC."
     ]
+  },
+  {
+    "timestamp": "2026-03-24T21:49:05.781911",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 12,
+    "price": 183.025,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.29%), long."
+    ]
   }
 ]
