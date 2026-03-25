@@ -34856,5 +34856,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (5.45%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:51:37.714341",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 11,
+    "price": 205.115,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
