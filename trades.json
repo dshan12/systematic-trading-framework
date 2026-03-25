@@ -35036,5 +35036,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 best 1\u2011week performers (5.34%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:52:50.853705",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 14,
+    "price": 163.22,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
