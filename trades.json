@@ -34906,5 +34906,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-5.45%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:51:58.063310",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 1,
+    "price": 841.83,
+    "reason": [
+      "Weekly Reversal: GS was among the 10 best 1\u2011week performers (4.51%), short."
+    ]
   }
 ]
