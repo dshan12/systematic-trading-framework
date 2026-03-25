@@ -35006,5 +35006,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-4.67%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:52:38.639001",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 1,
+    "price": 490.7,
+    "reason": [
+      "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (5.61%), short."
+    ]
   }
 ]
