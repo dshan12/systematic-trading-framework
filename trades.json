@@ -34996,5 +34996,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-5.30%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:52:34.495919",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 14,
+    "price": 195.0,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-4.67%), long."
+    ]
   }
 ]
