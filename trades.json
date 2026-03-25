@@ -35016,5 +35016,15 @@
     "reason": [
       "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (5.61%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:52:42.731454",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 10,
+    "price": 270.49,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-4.85%), long."
+    ]
   }
 ]
