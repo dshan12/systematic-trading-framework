@@ -34796,5 +34796,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-25T21:51:14.065764",
+    "symbol": "CB",
+    "side": "buy",
+    "qty": 3,
+    "price": 323.22,
+    "reason": [
+      "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.21%)."
+    ]
   }
 ]
