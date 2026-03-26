@@ -35076,5 +35076,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 best 1\u2011week performers (2.84%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-26T21:40:36.681882",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 9,
+    "price": 297.64,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
