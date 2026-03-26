@@ -35116,5 +35116,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-4.49%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-26T21:40:57.077902",
+    "symbol": "GS",
+    "side": "buy",
+    "qty": 3,
+    "price": 822.78,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
