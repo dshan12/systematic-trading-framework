@@ -35146,5 +35146,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-9.75%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-26T21:41:12.442549",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 14,
+    "price": 192.865,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
