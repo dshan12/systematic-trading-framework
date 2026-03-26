@@ -35086,5 +35086,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-26T21:40:42.059525",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 70,
+    "price": 39.95,
+    "reason": [
+      "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (2.75%), short."
+    ]
   }
 ]
