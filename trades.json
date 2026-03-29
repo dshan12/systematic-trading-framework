@@ -35256,5 +35256,15 @@
     "reason": [
       "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (3.93%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:42:33.583951",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 1,
+    "price": 211.12,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (4.67%), short."
+    ]
   }
 ]
