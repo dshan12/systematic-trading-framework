@@ -35276,5 +35276,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-7.12%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:42:41.155838",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 1,
+    "price": 273.77,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-8.38%), long."
+    ]
   }
 ]
