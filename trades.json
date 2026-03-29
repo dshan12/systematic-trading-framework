@@ -35417,5 +35417,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:43:35.719946",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 24,
+    "price": 122.9,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (3.25%), short."
+    ]
   }
 ]
