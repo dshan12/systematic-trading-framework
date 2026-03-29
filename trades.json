@@ -35316,5 +35316,16 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-8.59%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:42:56.616408",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 11,
+    "price": 240.4,
+    "reason": [
+      "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (2.16%), short.",
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.02%)."
+    ]
   }
 ]
