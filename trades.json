@@ -35427,5 +35427,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (3.25%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:43:39.553723",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 1,
+    "price": 171.0,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (7.09%), short."
+    ]
   }
 ]
