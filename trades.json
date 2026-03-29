@@ -35296,5 +35296,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-8.86%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:42:48.914071",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 63,
+    "price": 43.14,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
