@@ -35387,5 +35387,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-6.57%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:43:23.886693",
+    "symbol": "TMO",
+    "side": "buy",
+    "qty": 4,
+    "price": 473.49,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
