@@ -35700,5 +35700,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-6.28%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-30T21:54:41.456473",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 22,
+    "price": 156.8,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (3.94%), short."
+    ]
   }
 ]
