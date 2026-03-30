@@ -35710,5 +35710,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (3.94%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-30T21:54:46.220968",
+    "symbol": "TMO",
+    "side": "buy",
+    "qty": 1,
+    "price": 480.18,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.5% based on baseline allocation."
+    ]
   }
 ]
