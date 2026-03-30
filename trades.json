@@ -35447,5 +35447,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (4.00%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-30T21:52:46.660407",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 11,
+    "price": 293.15,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-9.02%), long."
+    ]
   }
 ]
