@@ -35538,5 +35538,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-30T21:53:27.743952",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 2,
+    "price": 210.76,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (2.68%), short."
+    ]
   }
 ]
