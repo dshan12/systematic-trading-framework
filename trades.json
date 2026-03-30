@@ -35548,5 +35548,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (2.68%), short."
     ]
+  },
+  {
+    "timestamp": "2026-03-30T21:53:33.248695",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 32,
+    "price": 94.31,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.4% based on baseline allocation."
+    ]
   }
 ]
