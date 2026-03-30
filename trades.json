@@ -35457,5 +35457,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-9.02%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-30T21:52:51.370226",
+    "symbol": "BRK.B",
+    "side": "buy",
+    "qty": 2,
+    "price": 474.925,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (1.11%)."
+    ]
   }
 ]
