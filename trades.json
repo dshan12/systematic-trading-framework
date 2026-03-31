@@ -35900,5 +35900,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=3.04, long COP."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:52:36.844040",
+    "symbol": "EOG",
+    "side": "buy",
+    "qty": 23,
+    "price": 144.49,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.6% based on baseline allocation."
+    ]
   }
 ]
