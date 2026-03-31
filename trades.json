@@ -35890,5 +35890,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 worst 1\u2011week performers (-3.38%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:52:31.460121",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 63,
+    "price": 189.565,
+    "reason": [
+      "Pairs Trading: COP/DHR spread z\u2011score=3.04, long COP."
+    ]
   }
 ]
