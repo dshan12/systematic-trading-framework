@@ -35860,5 +35860,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-4.04%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:52:15.080313",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 58,
+    "price": 41.05,
+    "reason": [
+      "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (5.61%), short."
+    ]
   }
 ]
