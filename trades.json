@@ -35840,5 +35840,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=3.04, short DHR."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:52:04.207698",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 9,
+    "price": 390.35,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.8% based on baseline allocation."
+    ]
   }
 ]
