@@ -36072,5 +36072,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-2.94%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:54:09.853408",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 5,
+    "price": 169.63,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (2.59%), short."
+    ]
   }
 ]
