@@ -35930,5 +35930,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-2.36%), long."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:52:53.304462",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 12,
+    "price": 286.74,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.8% based on baseline allocation."
+    ]
   }
 ]
