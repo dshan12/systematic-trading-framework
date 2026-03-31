@@ -35910,5 +35910,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-03-31T21:52:42.447891",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 6,
+    "price": 357.765,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-4.39%), long."
+    ]
   }
 ]
