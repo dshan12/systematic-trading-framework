@@ -36343,5 +36343,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-15.76%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:55:17.146678",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 16,
+    "price": 154.595,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
