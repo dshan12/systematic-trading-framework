@@ -36333,5 +36333,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:55:11.876527",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 51,
+    "price": 44.63,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-15.76%), long."
+    ]
   }
 ]
