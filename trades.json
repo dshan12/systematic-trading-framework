@@ -36233,5 +36233,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=2.74, long COP."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:54:18.299103",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 2,
+    "price": 996.36,
+    "reason": [
+      "Weekly Reversal: EQIX was among the 10 best 1\u2011week performers (3.11%), short."
+    ]
   }
 ]
