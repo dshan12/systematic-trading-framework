@@ -36373,5 +36373,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-2.36%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:55:34.046881",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 6,
+    "price": 381.32,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
