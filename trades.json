@@ -36323,5 +36323,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-2.63%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:55:05.996709",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 20,
+    "price": 120.86,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
