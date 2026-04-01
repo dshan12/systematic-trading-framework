@@ -36173,5 +36173,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=2.74, short DHR."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:53:46.599037",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 12,
+    "price": 186.21,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (2.35%), short."
+    ]
   }
 ]
