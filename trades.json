@@ -36132,5 +36132,15 @@
     "reason": [
       "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-2.44%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-01T21:53:25.505749",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 8,
+    "price": 296.87,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
