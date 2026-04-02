@@ -36533,5 +36533,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-3.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-02T21:50:57.011789",
+    "symbol": "EQIX",
+    "side": "buy",
+    "qty": 2,
+    "price": 1000.4,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
