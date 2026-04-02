@@ -36483,5 +36483,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=2.80, short DHR."
     ]
+  },
+  {
+    "timestamp": "2026-04-02T21:50:35.594779",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 12,
+    "price": 187.15,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
