@@ -36493,5 +36493,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-02T21:50:39.877653",
+    "symbol": "CSCO",
+    "side": "sell",
+    "qty": 2,
+    "price": 79.02,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-3.82%), long."
+    ]
   }
 ]
