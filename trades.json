@@ -36683,5 +36683,15 @@
     "reason": [
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.23%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-05T21:42:22.710279",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 6,
+    "price": 130.51,
+    "reason": [
+      "Pairs Trading: COP/DHR spread z\u2011score=2.78, short DHR."
+    ]
   }
 ]
