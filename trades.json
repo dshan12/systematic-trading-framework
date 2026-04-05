@@ -36733,5 +36733,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-3.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-05T21:42:49.013393",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 7,
+    "price": 294.45,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (4.89%), short."
+    ]
   }
 ]
