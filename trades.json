@@ -36713,5 +36713,15 @@
     "reason": [
       "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (4.22%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-05T21:42:38.432875",
+    "symbol": "DHR",
+    "side": "sell",
+    "qty": 3,
+    "price": 191.03,
+    "reason": [
+      "Pairs Trading: COP/DHR spread z\u2011score=2.78, long COP."
+    ]
   }
 ]
