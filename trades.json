@@ -36833,5 +36833,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-1.78%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:47:40.654795",
+    "symbol": "AMT",
+    "side": "buy",
+    "qty": 1,
+    "price": 176.14,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.2% based on baseline allocation."
+    ]
   }
 ]
