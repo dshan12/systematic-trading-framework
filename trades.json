@@ -36913,5 +36913,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=2.75, long COP."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:48:16.673067",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 14,
+    "price": 143.09,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-4.35%), long."
+    ]
   }
 ]
