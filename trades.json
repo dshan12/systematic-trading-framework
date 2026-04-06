@@ -36903,5 +36903,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:48:12.177530",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 1,
+    "price": 192.08,
+    "reason": [
+      "Pairs Trading: COP/DHR spread z\u2011score=2.75, long COP."
+    ]
   }
 ]
