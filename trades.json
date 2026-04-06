@@ -36853,5 +36853,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (6.75%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:47:49.615539",
+    "symbol": "BKNG",
+    "side": "buy",
+    "qty": 12,
+    "price": 176.2,
+    "reason": [
+      "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-95.66%), long."
+    ]
   }
 ]
