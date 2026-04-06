@@ -37033,5 +37033,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-2.49%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:49:09.880037",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 7,
+    "price": 307.61,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (8.62%), short."
+    ]
   }
 ]
