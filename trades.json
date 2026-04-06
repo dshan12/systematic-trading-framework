@@ -36823,5 +36823,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-3.10%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:47:36.033671",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 6,
+    "price": 342.57,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-1.78%), long."
+    ]
   }
 ]
