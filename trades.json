@@ -36873,5 +36873,15 @@
     "reason": [
       "Pairs Trading: COP/DHR spread z\u2011score=2.75, short DHR."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:47:58.655277",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 5,
+    "price": 398.54,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (7.85%), short."
+    ]
   }
 ]
