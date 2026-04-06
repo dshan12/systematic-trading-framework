@@ -36863,5 +36863,15 @@
     "reason": [
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-95.66%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:47:54.239073",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 4,
+    "price": 131.64,
+    "reason": [
+      "Pairs Trading: COP/DHR spread z\u2011score=2.75, short DHR."
+    ]
   }
 ]
