@@ -36953,5 +36953,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 best 1\u2011week performers (7.87%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-06T21:48:34.583036",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 12,
+    "price": 166.36,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 best 1\u2011week performers (8.99%), short."
+    ]
   }
 ]
