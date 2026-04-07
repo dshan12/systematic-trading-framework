@@ -37063,5 +37063,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-3.17%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-07T21:52:19.242641",
+    "symbol": "AMGN",
+    "side": "sell",
+    "qty": 6,
+    "price": 340.0,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
