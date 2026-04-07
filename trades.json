@@ -37093,5 +37093,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (13.82%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-07T21:52:33.115608",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 2,
+    "price": 724.56,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (8.54%), short."
+    ]
   }
 ]
