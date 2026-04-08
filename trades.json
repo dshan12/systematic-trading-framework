@@ -37234,5 +37234,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-5.52%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:54:08.857618",
+    "symbol": "DHR",
+    "side": "sell",
+    "qty": 56,
+    "price": 196.21,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 12.0% based on baseline allocation."
+    ]
   }
 ]
