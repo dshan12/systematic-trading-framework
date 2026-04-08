@@ -37274,5 +37274,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (33.58%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:54:24.895519",
+    "symbol": "LLY",
+    "side": "sell",
+    "qty": 11,
+    "price": 953.24,
+    "reason": [
+      "Pairs Trading: BKNG/LLY spread z\u2011score=-7.25, short LLY."
+    ]
   }
 ]
