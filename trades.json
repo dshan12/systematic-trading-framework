@@ -37284,5 +37284,15 @@
     "reason": [
       "Pairs Trading: BKNG/LLY spread z\u2011score=-7.25, short LLY."
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:54:28.788571",
+    "symbol": "PM",
+    "side": "sell",
+    "qty": 14,
+    "price": 160.96,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
