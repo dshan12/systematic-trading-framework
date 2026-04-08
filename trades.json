@@ -37214,5 +37214,15 @@
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-95.70%), long.",
       "Pairs Trading: BKNG/LLY spread z\u2011score=-7.25, long BKNG."
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:54:01.097812",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 76,
+    "price": 27.955,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
