@@ -37264,5 +37264,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (10.35%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:54:20.493255",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 4,
+    "price": 58.95,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (33.58%), short."
+    ]
   }
 ]
