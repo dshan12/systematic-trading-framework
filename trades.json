@@ -37203,5 +37203,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:53:57.112972",
+    "symbol": "BKNG",
+    "side": "buy",
+    "qty": 60,
+    "price": 181.025,
+    "reason": [
+      "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-95.70%), long.",
+      "Pairs Trading: BKNG/LLY spread z\u2011score=-7.25, long BKNG."
+    ]
   }
 ]
