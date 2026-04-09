@@ -37544,5 +37544,15 @@
     "reason": [
       "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-4.66%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:54:38.428452",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 10,
+    "price": 214.885,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (9.52%), short."
+    ]
   }
 ]
