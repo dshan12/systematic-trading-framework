@@ -37514,5 +37514,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -11.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:54:25.576828",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 3,
+    "price": 628.32,
+    "reason": [
+      "Weekly Reversal: META was among the 10 best 1\u2011week performers (8.49%), short."
+    ]
   }
 ]
