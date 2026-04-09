@@ -37334,5 +37334,15 @@
     "reason": [
       "Pairs Trading: ADP/COST spread z\u2011score=-2.97, long ADP."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:53:06.901419",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 10,
+    "price": 233.53,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (10.96%), short."
+    ]
   }
 ]
