@@ -37304,5 +37304,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-7.67%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:52:53.260015",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 12,
+    "price": 186.06,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-5.60%), long."
+    ]
   }
 ]
