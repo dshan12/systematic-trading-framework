@@ -37434,5 +37434,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 best 1\u2011week performers (8.29%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:53:50.970287",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 6,
+    "price": 316.935,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
