@@ -37424,5 +37424,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-3.57%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:53:46.675907",
+    "symbol": "DE",
+    "side": "sell",
+    "qty": 3,
+    "price": 618.06,
+    "reason": [
+      "Weekly Reversal: DE was among the 10 best 1\u2011week performers (8.29%), short."
+    ]
   }
 ]
