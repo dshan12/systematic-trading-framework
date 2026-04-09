@@ -37384,5 +37384,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.15%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-09T21:53:28.953031",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 1,
+    "price": 170.84,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-8.26%), long."
+    ]
   }
 ]
