@@ -37685,5 +37685,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-6.80%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-12T21:46:22.223247",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 1,
+    "price": 152.54,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.2% based on baseline allocation."
+    ]
   }
 ]
