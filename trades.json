@@ -37665,5 +37665,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-12T21:46:13.263607",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 6,
+    "price": 348.64,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
