@@ -37585,5 +37585,15 @@
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-7.46%), long.",
       "Pairs Trading: ADP/COST spread z\u2011score=-2.43, long ADP."
     ]
+  },
+  {
+    "timestamp": "2026-04-12T21:45:37.081254",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 2,
+    "price": 790.93,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (10.24%), short."
+    ]
   }
 ]
