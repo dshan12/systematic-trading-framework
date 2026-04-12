@@ -37595,5 +37595,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (10.24%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-12T21:45:41.789742",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 1,
+    "price": 164.95,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-11.87%), long."
+    ]
   }
 ]
