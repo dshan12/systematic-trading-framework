@@ -37936,5 +37936,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (8.67%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:58:54.036345",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 2,
+    "price": 313.005,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (11.25%), short."
+    ]
   }
 ]
