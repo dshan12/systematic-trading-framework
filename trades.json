@@ -37745,5 +37745,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (20.77%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:57:14.061429",
+    "symbol": "BKNG",
+    "side": "sell",
+    "qty": 14,
+    "price": 177.23,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
