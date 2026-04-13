@@ -37956,5 +37956,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-7.59%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:59:04.942506",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 18,
+    "price": 152.68,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-6.57%), long."
+    ]
   }
 ]
