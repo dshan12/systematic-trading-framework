@@ -37846,5 +37846,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 best 1\u2011week performers (8.04%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:58:06.758295",
+    "symbol": "IBM",
+    "side": "buy",
+    "qty": 1,
+    "price": 237.89,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-3.62%), long."
+    ]
   }
 ]
