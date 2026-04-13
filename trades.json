@@ -37806,5 +37806,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.60%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:57:46.018058",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 2,
+    "price": 191.75,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-3.56%), long."
+    ]
   }
 ]
