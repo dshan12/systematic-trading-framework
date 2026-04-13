@@ -37926,5 +37926,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 best 1\u2011week performers (10.73%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:58:48.616499",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 3,
+    "price": 216.67,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (8.67%), short."
+    ]
   }
 ]
