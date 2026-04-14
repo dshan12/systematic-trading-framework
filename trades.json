@@ -38207,5 +38207,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (10.34%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T22:01:12.393177",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 3,
+    "price": 218.83,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (9.58%), short."
+    ]
   }
 ]
