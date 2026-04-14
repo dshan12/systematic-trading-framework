@@ -38037,5 +38037,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T21:59:57.943012",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 2,
+    "price": 325.58,
+    "reason": [
+      "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.16%)."
+    ]
   }
 ]
