@@ -38097,5 +38097,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-7.20%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T22:00:24.496418",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 3,
+    "price": 133.62,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-7.38%), long."
+    ]
   }
 ]
