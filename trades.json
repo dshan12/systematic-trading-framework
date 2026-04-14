@@ -38067,5 +38067,15 @@
     "reason": [
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.23%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T22:00:11.246379",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 3,
+    "price": 171.34,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.37%), long."
+    ]
   }
 ]
