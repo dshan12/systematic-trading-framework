@@ -38016,5 +38016,16 @@
     "reason": [
       "Pairs Trading: BKNG/BLK spread z\u2011score=-6.02, long BKNG."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T21:59:49.136117",
+    "symbol": "BLK",
+    "side": "sell",
+    "qty": 12,
+    "price": 1054.8,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 best 1\u2011week performers (10.03%), short.",
+      "Pairs Trading: BKNG/BLK spread z\u2011score=-6.02, short BLK."
+    ]
   }
 ]
