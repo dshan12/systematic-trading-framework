@@ -38006,5 +38006,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (14.02%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T21:59:44.925704",
+    "symbol": "BKNG",
+    "side": "buy",
+    "qty": 59,
+    "price": 181.05,
+    "reason": [
+      "Pairs Trading: BKNG/BLK spread z\u2011score=-6.02, long BKNG."
+    ]
   }
 ]
