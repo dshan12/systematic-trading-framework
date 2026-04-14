@@ -37976,5 +37976,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-14T21:59:32.062903",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 3,
+    "price": 195.06,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-4.19%), long."
+    ]
   }
 ]
