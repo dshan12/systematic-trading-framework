@@ -38257,5 +38257,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T21:59:42.116875",
+    "symbol": "BLK",
+    "side": "buy",
+    "qty": 1,
+    "price": 1048.945,
+    "reason": [
+      "Pairs Trading: BKNG/BLK spread z\u2011score=-5.70, short BLK."
+    ]
   }
 ]
