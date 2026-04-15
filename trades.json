@@ -38287,5 +38287,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T21:59:54.044324",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 2,
+    "price": 984.45,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-4.42%), long.",
+      "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.24%)."
+    ]
   }
 ]
