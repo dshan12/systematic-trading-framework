@@ -38247,5 +38247,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-8.95%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T21:59:38.130138",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 12,
+    "price": 196.91,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
