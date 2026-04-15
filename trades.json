@@ -38267,5 +38267,15 @@
     "reason": [
       "Pairs Trading: BKNG/BLK spread z\u2011score=-5.70, short BLK."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T21:59:46.159196",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 3,
+    "price": 770.11,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
