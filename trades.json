@@ -38398,5 +38398,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-4.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T22:00:40.042691",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 5,
+    "price": 410.75,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 best 1\u2011week performers (9.85%), short."
+    ]
   }
 ]
