@@ -38298,5 +38298,15 @@
       "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-4.42%), long.",
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.24%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T21:59:57.885723",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 12,
+    "price": 177.615,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
