@@ -38308,5 +38308,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T22:00:03.049145",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 5,
+    "price": 411.21,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
