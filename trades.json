@@ -38388,5 +38388,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-5.06%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T22:00:36.096374",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 18,
+    "price": 117.87,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-4.29%), long."
+    ]
   }
 ]
