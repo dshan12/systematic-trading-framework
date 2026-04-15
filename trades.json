@@ -38368,5 +38368,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (6.27%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-15T22:00:28.261731",
+    "symbol": "INTU",
+    "side": "sell",
+    "qty": 6,
+    "price": 389.58,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
