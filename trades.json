@@ -38599,5 +38599,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-5.89%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:54:47.241857",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 20,
+    "price": 98.99,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
