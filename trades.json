@@ -38508,5 +38508,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:54:00.058074",
+    "symbol": "CVS",
+    "side": "sell",
+    "qty": 29,
+    "price": 76.775,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
