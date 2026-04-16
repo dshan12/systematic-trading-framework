@@ -38568,5 +38568,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (10.99%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:54:31.467507",
+    "symbol": "INTU",
+    "side": "sell",
+    "qty": 5,
+    "price": 387.03,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 best 1\u2011week performers (7.03%), short."
+    ]
   }
 ]
