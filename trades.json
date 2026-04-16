@@ -38548,5 +38548,15 @@
     "reason": [
       "Pairs Trading: GOOG/GOOGL spread z\u2011score=-4.27, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:54:21.160644",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 32,
+    "price": 335.97,
+    "reason": [
+      "Pairs Trading: GOOG/GOOGL spread z\u2011score=-4.27, short GOOGL."
+    ]
   }
 ]
