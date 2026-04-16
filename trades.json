@@ -38538,5 +38538,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-4.71%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:54:15.676466",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 33,
+    "price": 332.8,
+    "reason": [
+      "Pairs Trading: GOOG/GOOGL spread z\u2011score=-4.27, long GOOG."
+    ]
   }
 ]
