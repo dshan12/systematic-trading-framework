@@ -38558,5 +38558,15 @@
     "reason": [
       "Pairs Trading: GOOG/GOOGL spread z\u2011score=-4.27, short GOOGL."
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:54:26.176741",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 1,
+    "price": 68.48,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (10.99%), short."
+    ]
   }
 ]
