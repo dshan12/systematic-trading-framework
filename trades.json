@@ -38699,5 +38699,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:47:13.010506",
+    "symbol": "BKNG",
+    "side": "sell",
+    "qty": 11,
+    "price": 192.02,
+    "reason": [
+      "Weekly Reversal: BKNG was among the 10 best 1\u2011week performers (10.69%), short."
+    ]
   }
 ]
