@@ -38809,5 +38809,15 @@
     "reason": [
       "Pairs Trading: EQIX/PM spread z\u2011score=2.79, short PM."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:48:14.486329",
+    "symbol": "GE",
+    "side": "sell",
+    "qty": 7,
+    "price": 303.95,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
