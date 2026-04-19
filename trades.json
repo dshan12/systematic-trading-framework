@@ -38669,5 +38669,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (10.09%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:46:55.938122",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 8,
+    "price": 244.42,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
