@@ -38729,5 +38729,15 @@
     "reason": [
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.22%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:47:30.059746",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 19,
+    "price": 116.05,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-5.31%), long."
+    ]
   }
 ]
