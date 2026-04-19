@@ -38869,5 +38869,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:48:49.349531",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 4,
+    "price": 688.46,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
