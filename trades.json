@@ -38799,5 +38799,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-5.70%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:48:09.075003",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 10,
+    "price": 1088.55,
+    "reason": [
+      "Pairs Trading: EQIX/PM spread z\u2011score=2.79, short PM."
+    ]
   }
 ]
