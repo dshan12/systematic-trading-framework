@@ -38779,5 +38779,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-2.42%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:47:57.991836",
+    "symbol": "DE",
+    "side": "sell",
+    "qty": 3,
+    "price": 590.535,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 1.9% based on baseline allocation."
+    ]
   }
 ]
