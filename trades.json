@@ -38759,5 +38759,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (11.85%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:47:46.863087",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 28,
+    "price": 77.26,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 worst 1\u2011week performers (-2.56%), long."
+    ]
   }
 ]
