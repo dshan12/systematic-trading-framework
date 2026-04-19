@@ -38849,5 +38849,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (9.84%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-19T21:48:37.860537",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 28,
+    "price": 75.74,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.04%)."
+    ]
   }
 ]
