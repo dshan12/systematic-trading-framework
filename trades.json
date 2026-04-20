@@ -39020,5 +39020,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (8.32%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-20T21:56:47.078697",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 10,
+    "price": 202.19,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (6.73%), short."
+    ]
   }
 ]
