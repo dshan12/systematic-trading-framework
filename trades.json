@@ -39000,5 +39000,15 @@
       "Weekly Reversal: JNJ was among the 10 worst 1\u2011week performers (-3.06%), long.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.98%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-20T21:56:37.382072",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 1,
+    "price": 94.65,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-8.07%), long."
+    ]
   }
 ]
