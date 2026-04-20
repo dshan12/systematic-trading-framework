@@ -39041,5 +39041,15 @@
       "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-3.20%), long.",
       "Pairs Trading: EQIX/PM spread z\u2011score=2.93, long EQIX."
     ]
+  },
+  {
+    "timestamp": "2026-04-20T21:56:56.848349",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 10,
+    "price": 195.785,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
