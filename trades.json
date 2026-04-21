@@ -39151,5 +39151,16 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (6.41%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:54:44.882382",
+    "symbol": "JNJ",
+    "side": "buy",
+    "qty": 1,
+    "price": 226.125,
+    "reason": [
+      "Weekly Reversal: JNJ was among the 10 worst 1\u2011week performers (-5.81%), long.",
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.01%)."
+    ]
   }
 ]
