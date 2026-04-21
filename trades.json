@@ -39192,5 +39192,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:55:05.061161",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 2,
+    "price": 153.27,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-3.90%), long.",
+      "Pairs Trading: EQIX/PM spread z\u2011score=2.83, long EQIX."
+    ]
   }
 ]
