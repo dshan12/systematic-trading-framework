@@ -39071,5 +39071,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:54:03.893845",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 19,
+    "price": 120.26,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
