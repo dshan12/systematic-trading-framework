@@ -39213,5 +39213,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-7.71%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:55:14.827871",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 6,
+    "price": 346.015,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (10.13%), short."
+    ]
   }
 ]
