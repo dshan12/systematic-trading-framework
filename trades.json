@@ -39233,5 +39233,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:55:24.527987",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 15,
+    "price": 148.33,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
