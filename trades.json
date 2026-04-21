@@ -39172,5 +39172,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-6.17%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:54:55.607332",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 47,
+    "price": 46.44,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
