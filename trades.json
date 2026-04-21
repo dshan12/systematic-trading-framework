@@ -39121,5 +39121,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-9.83%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:54:30.346193",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 16,
+    "price": 133.27,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-5.10%), long."
+    ]
   }
 ]
