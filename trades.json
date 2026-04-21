@@ -39061,5 +39061,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (7.84%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:53:58.909792",
+    "symbol": "BKNG",
+    "side": "buy",
+    "qty": 10,
+    "price": 190.91,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
