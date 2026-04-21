@@ -39162,5 +39162,15 @@
       "Weekly Reversal: JNJ was among the 10 worst 1\u2011week performers (-5.81%), long.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.01%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-21T21:54:49.896891",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 19,
+    "price": 112.55,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-6.17%), long."
+    ]
   }
 ]
