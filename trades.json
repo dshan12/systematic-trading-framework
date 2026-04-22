@@ -39263,5 +39263,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-9.71%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:58:18.738920",
+    "symbol": "AVGO",
+    "side": "sell",
+    "qty": 6,
+    "price": 421.57,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (6.54%), short."
+    ]
   }
 ]
