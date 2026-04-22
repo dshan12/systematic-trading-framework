@@ -39353,5 +39353,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (9.03%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:59:00.693504",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 15,
+    "price": 184.04,
+    "reason": [
+      "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-7.12%), long."
+    ]
   }
 ]
