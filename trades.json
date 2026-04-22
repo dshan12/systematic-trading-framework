@@ -39423,5 +39423,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:59:32.985396",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 5,
+    "price": 397.34,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
