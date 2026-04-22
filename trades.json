@@ -39333,5 +39333,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (6.87%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:58:51.030592",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 1,
+    "price": 466.62,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (13.50%), short."
+    ]
   }
 ]
