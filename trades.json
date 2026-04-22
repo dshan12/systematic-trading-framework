@@ -39313,5 +39313,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.17%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:58:41.714674",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 7,
+    "price": 285.695,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
