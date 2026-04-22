@@ -39253,5 +39253,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-3.80%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:58:13.822851",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 8,
+    "price": 91.72,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-9.71%), long."
+    ]
   }
 ]
