@@ -39494,5 +39494,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 best 1\u2011week performers (5.28%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T22:00:04.917722",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 8,
+    "price": 92.84,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-13.43%), long."
+    ]
   }
 ]
