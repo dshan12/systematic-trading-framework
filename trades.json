@@ -39363,5 +39363,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-7.12%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-22T21:59:05.579502",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 8,
+    "price": 328.025,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (5.47%), short."
+    ]
   }
 ]
