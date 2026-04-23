@@ -39644,5 +39644,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-7.85%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-23T21:56:14.052576",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 6,
+    "price": 424.66,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (8.09%), short."
+    ]
   }
 ]
