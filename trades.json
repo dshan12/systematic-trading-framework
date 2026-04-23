@@ -39554,5 +39554,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (12.57%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-23T21:55:29.671084",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 14,
+    "price": 200.965,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
