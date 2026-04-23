@@ -39654,5 +39654,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (8.09%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-23T21:56:18.727512",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 21,
+    "price": 133.7,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
