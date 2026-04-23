@@ -39684,5 +39684,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.03%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-23T21:56:32.777519",
+    "symbol": "MRK",
+    "side": "sell",
+    "qty": 25,
+    "price": 114.63,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
