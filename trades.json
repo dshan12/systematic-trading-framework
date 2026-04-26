@@ -39734,5 +39734,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (12.06%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-26T21:50:26.399953",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 11,
+    "price": 263.96,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (5.36%), short."
+    ]
   }
 ]
