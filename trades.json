@@ -39864,5 +39864,15 @@
     "reason": [
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.22%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-27T22:02:22.270504",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 24,
+    "price": 121.675,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
