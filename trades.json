@@ -39854,5 +39854,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (4.65%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-27T22:02:16.513013",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 1,
+    "price": 997.91,
+    "reason": [
+      "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.22%)."
+    ]
   }
 ]
