@@ -39964,5 +39964,15 @@
     "reason": [
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-9.16%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-28T22:07:57.759940",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 6,
+    "price": 454.94,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
