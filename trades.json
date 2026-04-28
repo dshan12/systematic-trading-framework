@@ -40054,5 +40054,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-4.33%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-28T22:08:39.998063",
+    "symbol": "PM",
+    "side": "sell",
+    "qty": 17,
+    "price": 165.93,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 best 1\u2011week performers (8.25%), short."
+    ]
   }
 ]
