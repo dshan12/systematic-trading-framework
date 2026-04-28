@@ -39984,5 +39984,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-28T22:08:07.134944",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 22,
+    "price": 129.225,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
