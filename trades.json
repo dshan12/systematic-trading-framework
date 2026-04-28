@@ -40024,5 +40024,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-4.32%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-28T22:08:25.765553",
+    "symbol": "HON",
+    "side": "sell",
+    "qty": 13,
+    "price": 212.97,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
