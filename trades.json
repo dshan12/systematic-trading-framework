@@ -40144,5 +40144,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 best 1\u2011week performers (6.41%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-29T22:09:18.363874",
+    "symbol": "DHR",
+    "side": "sell",
+    "qty": 16,
+    "price": 178.8,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
