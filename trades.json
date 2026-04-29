@@ -40084,5 +40084,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 best 1\u2011week performers (6.63%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-29T22:08:41.723941",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 1,
+    "price": 405.525,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
+    ]
   }
 ]
