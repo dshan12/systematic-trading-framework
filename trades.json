@@ -40064,5 +40064,15 @@
     "reason": [
       "Weekly Reversal: PM was among the 10 best 1\u2011week performers (8.25%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-29T22:08:29.719238",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 12,
+    "price": 243.455,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-4.83%), long."
+    ]
   }
 ]
