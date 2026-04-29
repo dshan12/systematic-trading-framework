@@ -40255,5 +40255,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.13%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-29T22:10:23.898404",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 13,
+    "price": 209.0,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
