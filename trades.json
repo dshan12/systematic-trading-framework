@@ -40094,5 +40094,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-29T22:08:47.614928",
+    "symbol": "AXP",
+    "side": "buy",
+    "qty": 9,
+    "price": 315.66,
+    "reason": [
+      "Weekly Reversal: AXP was among the 10 worst 1\u2011week performers (-5.18%), long."
+    ]
   }
 ]
