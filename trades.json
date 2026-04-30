@@ -40405,5 +40405,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (13.55%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:04:40.791766",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 13,
+    "price": 231.005,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
