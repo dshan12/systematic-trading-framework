@@ -40355,5 +40355,15 @@
     "reason": [
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-4.75%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:04:11.159579",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 3,
+    "price": 890.575,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (6.57%), short."
+    ]
   }
 ]
