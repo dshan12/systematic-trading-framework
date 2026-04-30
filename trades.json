@@ -40496,5 +40496,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-4.75%), long."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:05:33.894156",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 31,
+    "price": 158.44,
+    "reason": [
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.26%)."
+    ]
   }
 ]
