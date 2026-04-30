@@ -40435,5 +40435,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.13%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:04:58.530693",
+    "symbol": "LIN",
+    "side": "sell",
+    "qty": 10,
+    "price": 501.76,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.4% based on baseline allocation."
+    ]
   }
 ]
