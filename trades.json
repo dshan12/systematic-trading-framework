@@ -40365,5 +40365,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (6.57%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:04:17.073865",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 10,
+    "price": 290.66,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
