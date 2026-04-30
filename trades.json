@@ -40425,5 +40425,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (41.48%), short."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:04:52.381198",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 34,
+    "price": 78.77,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.13%)."
+    ]
   }
 ]
