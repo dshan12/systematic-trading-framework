@@ -40476,5 +40476,15 @@
       "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-2.96%), long.",
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.14%)."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:05:22.446895",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 4,
+    "price": 612.37,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-7.17%), long."
+    ]
   }
 ]
