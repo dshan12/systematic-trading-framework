@@ -40445,5 +40445,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 5.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-04-30T22:05:04.213745",
+    "symbol": "LLY",
+    "side": "sell",
+    "qty": 3,
+    "price": 934.86,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
