@@ -40586,5 +40586,15 @@
     "reason": [
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-5.89%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:14.706932",
+    "symbol": "BRK.B",
+    "side": "sell",
+    "qty": 2,
+    "price": 473.07,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (1.02%)."
+    ]
   }
 ]
