@@ -40788,5 +40788,15 @@
     "reason": [
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.24%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:56:43.113238",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 83,
+    "price": 26.33,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-2.48%), long."
+    ]
   }
 ]
