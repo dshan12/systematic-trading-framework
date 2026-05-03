@@ -40828,5 +40828,15 @@
     "reason": [
       "Weekly Reversal: V was among the 10 best 1\u2011week performers (6.01%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:57:00.395375",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 135,
+    "price": 80.81,
+    "reason": [
+      "Pairs Trading: INTC/WFC spread z\u2011score=5.48, long INTC."
+    ]
   }
 ]
