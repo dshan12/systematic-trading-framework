@@ -40556,5 +40556,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:01.177863",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 6,
+    "price": 329.8,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-4.28%), long."
+    ]
   }
 ]
