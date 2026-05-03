@@ -40758,5 +40758,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:56:30.191085",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 5,
+    "price": 413.33,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-2.40%), long."
+    ]
   }
 ]
