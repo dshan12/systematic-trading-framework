@@ -40606,5 +40606,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.06%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:23.673618",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 92,
+    "price": 27.185,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
