@@ -40636,5 +40636,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (8.10%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:36.767989",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 2,
+    "price": 1085.18,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
