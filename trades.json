@@ -40687,5 +40687,15 @@
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (20.69%), short.",
       "Pairs Trading: INTC/WFC spread z\u2011score=5.48, short WFC."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:59.032016",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 1,
+    "price": 457.85,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-5.07%), long."
+    ]
   }
 ]
