@@ -40808,5 +40808,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 best 1\u2011week performers (18.92%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:56:51.823536",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 1,
+    "price": 469.055,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 0.5% based on baseline allocation."
+    ]
   }
 ]
