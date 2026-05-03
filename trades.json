@@ -40616,5 +40616,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:27.976941",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 1,
+    "price": 1011.69,
+    "reason": [
+      "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.16%)."
+    ]
   }
 ]
