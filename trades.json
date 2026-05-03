@@ -40676,5 +40676,16 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-3.58%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:55:54.514546",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 100,
+    "price": 99.8,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (20.69%), short.",
+      "Pairs Trading: INTC/WFC spread z\u2011score=5.48, short WFC."
+    ]
   }
 ]
