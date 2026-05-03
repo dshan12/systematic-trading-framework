@@ -40768,5 +40768,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-2.40%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-03T21:56:34.423040",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 11,
+    "price": 198.23,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-4.72%), long."
+    ]
   }
 ]
