@@ -40950,5 +40950,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-04T22:11:41.097954",
+    "symbol": "WFC",
+    "side": "sell",
+    "qty": 135,
+    "price": 79.23,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 11.6% based on baseline allocation."
+    ]
   }
 ]
