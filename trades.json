@@ -40910,5 +40910,15 @@
       "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-7.76%), long.",
       "Pairs Trading: INTC/LOW spread z\u2011score=4.33, long INTC."
     ]
+  },
+  {
+    "timestamp": "2026-05-04T22:11:21.344396",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 7,
+    "price": 284.155,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.16%)."
+    ]
   }
 ]
