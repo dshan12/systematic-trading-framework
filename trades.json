@@ -40888,5 +40888,16 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 worst 1\u2011week performers (-3.68%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-04T22:11:10.730242",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 6,
+    "price": 95.54,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (12.70%), short.",
+      "Pairs Trading: INTC/LOW spread z\u2011score=4.33, short LOW."
+    ]
   }
 ]
