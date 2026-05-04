@@ -40899,5 +40899,16 @@
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (12.70%), short.",
       "Pairs Trading: INTC/LOW spread z\u2011score=4.33, short LOW."
     ]
+  },
+  {
+    "timestamp": "2026-05-04T22:11:16.054468",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 48,
+    "price": 223.75,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-7.76%), long.",
+      "Pairs Trading: INTC/LOW spread z\u2011score=4.33, long INTC."
+    ]
   }
 ]
