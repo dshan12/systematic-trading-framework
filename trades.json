@@ -40838,5 +40838,15 @@
     "reason": [
       "Pairs Trading: INTC/WFC spread z\u2011score=5.48, long INTC."
     ]
+  },
+  {
+    "timestamp": "2026-05-04T22:10:44.954567",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 24,
+    "price": 87.56,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-5.67%), long."
+    ]
   }
 ]
