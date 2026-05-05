@@ -40960,5 +40960,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 11.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:08:00.156099",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 7,
+    "price": 87.17,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-7.13%), long."
+    ]
   }
 ]
