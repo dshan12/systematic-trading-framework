@@ -41130,5 +41130,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-4.15%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:09:22.160765",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 111,
+    "price": 109.86,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (27.96%), short."
+    ]
   }
 ]
