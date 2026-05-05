@@ -41220,5 +41220,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-4.75%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:10:04.540196",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 14,
+    "price": 43.045,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-4.37%), long."
+    ]
   }
 ]
