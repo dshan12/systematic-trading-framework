@@ -41080,5 +41080,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (8.57%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:08:57.140454",
+    "symbol": "EOG",
+    "side": "buy",
+    "qty": 15,
+    "price": 140.87,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
