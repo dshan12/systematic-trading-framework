@@ -41040,5 +41040,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:08:38.688124",
+    "symbol": "BRK.B",
+    "side": "buy",
+    "qty": 2,
+    "price": 465.49,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (1.02%)."
+    ]
   }
 ]
