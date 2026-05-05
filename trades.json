@@ -41060,5 +41060,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:08:48.028222",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 105,
+    "price": 26.47,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-4.27%), long."
+    ]
   }
 ]
