@@ -41030,5 +41030,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-3.58%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:08:33.774913",
+    "symbol": "BKNG",
+    "side": "sell",
+    "qty": 13,
+    "price": 167.62,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
