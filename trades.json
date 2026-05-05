@@ -41200,5 +41200,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.15%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-05T22:09:55.505537",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 6,
+    "price": 411.1,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-4.16%), long."
+    ]
   }
 ]
