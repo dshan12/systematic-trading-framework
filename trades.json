@@ -41390,5 +41390,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 best 1\u2011week performers (7.85%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:05:40.507110",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 8,
+    "price": 323.03,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
