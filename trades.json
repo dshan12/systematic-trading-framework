@@ -41380,5 +41380,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-3.67%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:05:35.621130",
+    "symbol": "GE",
+    "side": "sell",
+    "qty": 9,
+    "price": 305.775,
+    "reason": [
+      "Weekly Reversal: GE was among the 10 best 1\u2011week performers (7.85%), short."
+    ]
   }
 ]
