@@ -41480,5 +41480,15 @@
     "reason": [
       "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.19%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:06:25.767548",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 7,
+    "price": 397.25,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (6.96%), short."
+    ]
   }
 ]
