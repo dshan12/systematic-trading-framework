@@ -41400,5 +41400,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:05:45.507371",
+    "symbol": "LIN",
+    "side": "sell",
+    "qty": 9,
+    "price": 501.9,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.0% based on baseline allocation."
+    ]
   }
 ]
