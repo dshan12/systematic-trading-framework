@@ -41430,5 +41430,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-6.35%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:06:00.161884",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 1,
+    "price": 283.97,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.15%)."
+    ]
   }
 ]
