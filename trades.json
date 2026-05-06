@@ -41350,5 +41350,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:05:20.541454",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 23,
+    "price": 118.87,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-7.29%), long."
+    ]
   }
 ]
