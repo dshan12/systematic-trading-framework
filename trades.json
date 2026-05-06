@@ -41450,5 +41450,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:06:10.081951",
+    "symbol": "NKE",
+    "side": "sell",
+    "qty": 64,
+    "price": 43.85,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
