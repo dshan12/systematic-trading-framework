@@ -41360,5 +41360,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-7.29%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:05:25.212130",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 29,
+    "price": 91.63,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
