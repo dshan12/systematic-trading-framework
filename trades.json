@@ -41290,5 +41290,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-5.51%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:04:51.028306",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 13,
+    "price": 207.18,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-3.65%), long."
+    ]
   }
 ]
