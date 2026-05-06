@@ -41330,5 +41330,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-06T22:05:10.755978",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 10,
+    "price": 281.92,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-3.54%), long."
+    ]
   }
 ]
