@@ -41740,5 +41740,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-3.73%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-07T22:12:58.779424",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 1,
+    "price": 146.51,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-5.02%), long."
+    ]
   }
 ]
