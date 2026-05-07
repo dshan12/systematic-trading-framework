@@ -41720,5 +41720,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-07T22:12:49.408564",
+    "symbol": "V",
+    "side": "buy",
+    "qty": 1,
+    "price": 321.345,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
+    ]
   }
 ]
