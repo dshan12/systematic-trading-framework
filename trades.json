@@ -41600,5 +41600,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 best 1\u2011week performers (4.73%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-07T22:11:51.512644",
+    "symbol": "EOG",
+    "side": "buy",
+    "qty": 21,
+    "price": 130.86,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-6.89%), long."
+    ]
   }
 ]
