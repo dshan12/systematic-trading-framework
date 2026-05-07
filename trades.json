@@ -41590,5 +41590,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (13.45%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-07T22:11:46.710629",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 26,
+    "price": 108.66,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 best 1\u2011week performers (4.73%), short."
+    ]
   }
 ]
