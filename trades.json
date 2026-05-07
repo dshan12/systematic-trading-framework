@@ -41520,5 +41520,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-4.07%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-07T22:11:14.133663",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 13,
+    "price": 214.15,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
