@@ -41800,5 +41800,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (5.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-10T21:56:52.155031",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 3,
+    "price": 125.63,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (25.40%), short."
+    ]
   }
 ]
