@@ -41780,5 +41780,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-6.58%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-10T21:56:42.365434",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 15,
+    "price": 181.66,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
