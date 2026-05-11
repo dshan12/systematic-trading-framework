@@ -41921,5 +41921,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-4.32%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:14.698249",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 26,
+    "price": 104.7,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
