@@ -42021,5 +42021,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 best 1\u2011week performers (41.07%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:16:04.525012",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 1,
+    "price": 73.58,
+    "reason": [
+      "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-7.07%), long."
+    ]
   }
 ]
