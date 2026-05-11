@@ -41981,5 +41981,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-7.14%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:45.312121",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 9,
+    "price": 274.595,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.13%)."
+    ]
   }
 ]
