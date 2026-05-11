@@ -41941,5 +41941,15 @@
     "reason": [
       "Low Volatility: EQIX is in the lowest decile of 60\u2011day vol (1.18%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:25.506691",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 7,
+    "price": 419.12,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
