@@ -41971,5 +41971,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (35.14%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:40.870505",
+    "symbol": "ISRG",
+    "side": "buy",
+    "qty": 6,
+    "price": 419.98,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-7.14%), long."
+    ]
   }
 ]
