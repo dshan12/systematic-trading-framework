@@ -41891,5 +41891,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-4.31%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:00.543627",
+    "symbol": "BKNG",
+    "side": "buy",
+    "qty": 17,
+    "price": 157.8,
+    "reason": [
+      "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-4.70%), long."
+    ]
   }
 ]
