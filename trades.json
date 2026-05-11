@@ -41931,5 +41931,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:20.728874",
+    "symbol": "EQIX",
+    "side": "buy",
+    "qty": 4,
+    "price": 1085.98,
+    "reason": [
+      "Low Volatility: EQIX is in the lowest decile of 60\u2011day vol (1.18%)."
+    ]
   }
 ]
