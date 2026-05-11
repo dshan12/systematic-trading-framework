@@ -41881,5 +41881,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-5.69%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:14:55.464323",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 15,
+    "price": 172.41,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-4.31%), long."
+    ]
   }
 ]
