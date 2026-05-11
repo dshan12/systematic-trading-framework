@@ -41901,5 +41901,15 @@
     "reason": [
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-4.70%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:15:05.502322",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 14,
+    "price": 184.695,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
