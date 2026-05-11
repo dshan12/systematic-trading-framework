@@ -41851,5 +41851,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-6.40%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-11T22:14:40.758785",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 9,
+    "price": 292.66,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
