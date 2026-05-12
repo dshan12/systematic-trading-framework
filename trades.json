@@ -42262,5 +42262,15 @@
     "reason": [
       "Pairs Trading: INTC/JPM spread z\u2011score=2.89, long INTC."
     ]
+  },
+  {
+    "timestamp": "2026-05-12T22:21:04.590587",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 15,
+    "price": 80.1,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
