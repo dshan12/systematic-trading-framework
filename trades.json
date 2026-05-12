@@ -42322,5 +42322,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 best 1\u2011week performers (12.74%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-12T22:21:32.856297",
+    "symbol": "TSLA",
+    "side": "buy",
+    "qty": 2,
+    "price": 431.96,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (11.32%), short."
+    ]
   }
 ]
