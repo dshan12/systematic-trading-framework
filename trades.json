@@ -42282,5 +42282,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-12T22:21:14.890394",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 32,
+    "price": 87.63,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
