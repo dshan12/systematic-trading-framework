@@ -42151,5 +42151,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-4.42%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-12T22:20:12.174199",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 12,
+    "price": 171.32,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-8.39%), long."
+    ]
   }
 ]
