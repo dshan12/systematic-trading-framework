@@ -42232,5 +42232,15 @@
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (11.52%), short.",
       "Pairs Trading: INTC/JPM spread z\u2011score=2.89, short JPM."
     ]
+  },
+  {
+    "timestamp": "2026-05-12T22:20:49.944214",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 1,
+    "price": 431.83,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-4.32%), long."
+    ]
   }
 ]
