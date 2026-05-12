@@ -42051,5 +42051,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-12T22:19:26.034456",
+    "symbol": "ACN",
+    "side": "sell",
+    "qty": 2,
+    "price": 169.78,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-5.16%), long."
+    ]
   }
 ]
