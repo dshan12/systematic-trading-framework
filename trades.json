@@ -42462,5 +42462,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-13T22:21:46.045494",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 1,
+    "price": 300.69,
+    "reason": [
+      "Pairs Trading: INTC/JPM spread z\u2011score=3.03, long INTC."
+    ]
   }
 ]
