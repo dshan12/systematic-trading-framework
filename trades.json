@@ -42442,5 +42442,15 @@
     "reason": [
       "Pairs Trading: INTC/JPM spread z\u2011score=3.03, short JPM."
     ]
+  },
+  {
+    "timestamp": "2026-05-13T22:21:36.721516",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 5,
+    "price": 432.46,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
