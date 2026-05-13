@@ -42372,5 +42372,15 @@
     "reason": [
       "Weekly Reversal: BKNG was among the 10 worst 1\u2011week performers (-7.90%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-13T22:21:05.735205",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 18,
+    "price": 117.4,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
