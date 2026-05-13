@@ -42412,5 +42412,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (6.65%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-13T22:21:23.472239",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 16,
+    "price": 134.915,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
