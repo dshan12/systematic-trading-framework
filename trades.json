@@ -42432,5 +42432,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-6.35%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-13T22:21:32.356511",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 17,
+    "price": 120.2,
+    "reason": [
+      "Pairs Trading: INTC/JPM spread z\u2011score=3.03, short JPM."
+    ]
   }
 ]
