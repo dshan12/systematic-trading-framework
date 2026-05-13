@@ -42472,5 +42472,15 @@
     "reason": [
       "Pairs Trading: INTC/JPM spread z\u2011score=3.03, long INTC."
     ]
+  },
+  {
+    "timestamp": "2026-05-13T22:21:50.327510",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 9,
+    "price": 220.41,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-5.54%), long."
+    ]
   }
 ]
