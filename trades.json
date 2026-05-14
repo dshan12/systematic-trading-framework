@@ -42583,5 +42583,15 @@
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (25.36%), short.",
       "Pairs Trading: CSCO/WFC spread z\u2011score=6.50, short WFC."
     ]
+  },
+  {
+    "timestamp": "2026-05-14T22:18:13.482130",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 12,
+    "price": 164.545,
+    "reason": [
+      "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-6.33%), long."
+    ]
   }
 ]
