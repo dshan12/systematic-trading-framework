@@ -42593,5 +42593,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-6.33%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-14T22:18:17.990741",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 5,
+    "price": 396.85,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
