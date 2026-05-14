@@ -42613,5 +42613,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-5.67%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-14T22:18:27.018673",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 88,
+    "price": 114.77,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -11.3% based on baseline allocation."
+    ]
   }
 ]
