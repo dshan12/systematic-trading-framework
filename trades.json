@@ -42693,5 +42693,16 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (8.04%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-14T22:19:03.100979",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 144,
+    "price": 73.8,
+    "reason": [
+      "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-6.78%), long.",
+      "Pairs Trading: CSCO/WFC spread z\u2011score=6.50, long CSCO."
+    ]
   }
 ]
