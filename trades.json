@@ -42643,5 +42643,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-5.61%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-14T22:18:40.258331",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 35,
+    "price": 300.02,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 11.7% based on baseline allocation."
+    ]
   }
 ]
