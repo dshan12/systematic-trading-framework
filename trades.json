@@ -42704,5 +42704,15 @@
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-6.78%), long.",
       "Pairs Trading: CSCO/WFC spread z\u2011score=6.50, long CSCO."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:01:06.692903",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 9,
+    "price": 247.59,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
