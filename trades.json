@@ -42795,5 +42795,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-5.40%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:01:49.788472",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 15,
+    "price": 140.23,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (7.87%), short."
+    ]
   }
 ]
