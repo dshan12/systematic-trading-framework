@@ -42915,5 +42915,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:02:48.892526",
+    "symbol": "WFC",
+    "side": "sell",
+    "qty": 27,
+    "price": 73.39,
+    "reason": [
+      "Pairs Trading: CSCO/WFC spread z\u2011score=6.43, long CSCO."
+    ]
   }
 ]
