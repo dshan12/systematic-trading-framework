@@ -42805,5 +42805,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (7.87%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:01:54.571126",
+    "symbol": "GE",
+    "side": "buy",
+    "qty": 7,
+    "price": 281.47,
+    "reason": [
+      "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-5.26%), long."
+    ]
   }
 ]
