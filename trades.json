@@ -42855,5 +42855,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (5.95%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:02:19.218045",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 10,
+    "price": 225.08,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
