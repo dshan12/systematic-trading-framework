@@ -42845,5 +42845,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-6.43%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:02:13.619447",
+    "symbol": "LLY",
+    "side": "sell",
+    "qty": 2,
+    "price": 1004.695,
+    "reason": [
+      "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (5.95%), short."
+    ]
   }
 ]
