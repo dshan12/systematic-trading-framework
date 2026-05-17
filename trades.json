@@ -42744,5 +42744,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 best 1\u2011week performers (6.26%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:01:26.131271",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 17,
+    "price": 122.38,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 best 1\u2011week performers (7.50%), short."
+    ]
   }
 ]
