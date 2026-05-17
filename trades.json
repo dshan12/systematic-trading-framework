@@ -42905,5 +42905,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:02:44.215743",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 5,
+    "price": 393.525,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
