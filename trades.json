@@ -42775,5 +42775,15 @@
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (22.41%), short.",
       "Pairs Trading: CSCO/WFC spread z\u2011score=6.43, short WFC."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:01:40.644020",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 11,
+    "price": 191.105,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (5.22%), short."
+    ]
   }
 ]
