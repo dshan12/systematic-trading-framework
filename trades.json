@@ -42925,5 +42925,15 @@
     "reason": [
       "Pairs Trading: CSCO/WFC spread z\u2011score=6.43, long CSCO."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:02:53.649933",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 13,
+    "price": 157.925,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (9.23%), short."
+    ]
   }
 ]
