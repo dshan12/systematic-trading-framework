@@ -42754,5 +42754,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (7.50%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-17T22:01:30.892974",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 12,
+    "price": 173.48,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
