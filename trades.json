@@ -42965,5 +42965,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 best 1\u2011week performers (5.32%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-18T22:09:20.493185",
+    "symbol": "BKNG",
+    "side": "sell",
+    "qty": 13,
+    "price": 155.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
