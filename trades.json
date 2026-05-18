@@ -43236,5 +43236,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-7.87%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-18T22:11:23.417410",
+    "symbol": "WFC",
+    "side": "sell",
+    "qty": 146,
+    "price": 74.39,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 12.1% based on baseline allocation."
+    ]
   }
 ]
