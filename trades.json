@@ -43136,5 +43136,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-16.43%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-18T22:10:38.014963",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 5,
+    "price": 439.75,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
