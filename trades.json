@@ -42935,5 +42935,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (9.23%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-18T22:09:06.397527",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 34,
+    "price": 87.885,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 best 1\u2011week performers (6.48%), short."
+    ]
   }
 ]
