@@ -43196,5 +43196,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.17%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-18T22:11:04.962999",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 12,
+    "price": 191.52,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
