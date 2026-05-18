@@ -43116,5 +43116,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-4.91%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-18T22:10:28.804903",
+    "symbol": "HD",
+    "side": "buy",
+    "qty": 2,
+    "price": 299.87,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-3.72%), long."
+    ]
   }
 ]
