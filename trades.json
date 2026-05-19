@@ -43316,5 +43316,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-19T22:22:06.243644",
+    "symbol": "LOW",
+    "side": "sell",
+    "qty": 13,
+    "price": 218.42,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
