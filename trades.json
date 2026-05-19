@@ -43296,5 +43296,15 @@
     "reason": [
       "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-5.14%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-19T22:21:56.897818",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 1,
+    "price": 371.9,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-7.38%), long."
+    ]
   }
 ]
