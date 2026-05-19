@@ -43266,5 +43266,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (5.88%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-19T22:21:43.445026",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 13,
+    "price": 220.53,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
