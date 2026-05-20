@@ -43466,5 +43466,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (12.25%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:39:49.167399",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 30,
+    "price": 93.33,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 worst 1\u2011week performers (-4.92%), long."
+    ]
   }
 ]
