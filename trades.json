@@ -43366,5 +43366,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 best 1\u2011week performers (5.78%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:39:04.668035",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 4,
+    "price": 447.46,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.0% based on baseline allocation."
+    ]
   }
 ]
