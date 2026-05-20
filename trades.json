@@ -43356,5 +43356,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (12.27%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:39:00.225293",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 12,
+    "price": 220.74,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 best 1\u2011week performers (5.78%), short."
+    ]
   }
 ]
