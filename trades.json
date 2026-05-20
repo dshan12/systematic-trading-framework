@@ -43556,5 +43556,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-5.00%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:40:29.650804",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 7,
+    "price": 383.19,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-4.45%), long."
+    ]
   }
 ]
