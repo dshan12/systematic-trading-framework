@@ -43456,5 +43456,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (8.60%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:39:44.590705",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 1,
+    "price": 114.33,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (12.25%), short."
+    ]
   }
 ]
