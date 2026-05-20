@@ -43386,5 +43386,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (5.84%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:39:13.719864",
+    "symbol": "BKNG",
+    "side": "sell",
+    "qty": 19,
+    "price": 156.945,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
