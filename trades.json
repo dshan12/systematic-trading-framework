@@ -43566,5 +43566,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-4.45%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-20T22:40:34.071903",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 18,
+    "price": 156.295,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
