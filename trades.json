@@ -43756,5 +43756,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-6.88%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-21T22:26:24.476956",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 32,
+    "price": 148.84,
+    "reason": [
+      "Low Volatility: PEP is in the lowest decile of 60\u2011day vol (1.20%)."
+    ]
   }
 ]
