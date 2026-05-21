@@ -43626,5 +43626,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 worst 1\u2011week performers (-5.90%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-21T22:25:24.223884",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 4,
+    "price": 1050.11,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.7% based on baseline allocation."
+    ]
   }
 ]
