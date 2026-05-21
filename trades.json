@@ -43726,5 +43726,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2026-05-21T22:26:10.586320",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 1,
+    "price": 284.18,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.16%)."
+    ]
   }
 ]
