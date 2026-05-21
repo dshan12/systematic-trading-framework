@@ -43606,5 +43606,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-5.73%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-21T22:25:14.802374",
+    "symbol": "BLK",
+    "side": "sell",
+    "qty": 2,
+    "price": 1063.72,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
