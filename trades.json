@@ -43776,5 +43776,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-8.39%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-24T22:03:28.872832",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 14,
+    "price": 179.26,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
