@@ -43926,5 +43926,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-4.43%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-24T22:04:32.754828",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 7,
+    "price": 425.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
