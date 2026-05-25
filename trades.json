@@ -44016,5 +44016,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (10.18%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-25T22:15:45.317941",
+    "symbol": "MRK",
+    "side": "sell",
+    "qty": 23,
+    "price": 122.435,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (9.90%), short."
+    ]
   }
 ]
