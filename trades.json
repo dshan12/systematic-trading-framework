@@ -43966,5 +43966,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-2.55%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-25T22:15:21.847080",
+    "symbol": "CVS",
+    "side": "buy",
+    "qty": 30,
+    "price": 93.25,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 worst 1\u2011week performers (-2.74%), long."
+    ]
   }
 ]
