@@ -44096,5 +44096,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-7.40%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-26T22:26:48.873458",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 2,
+    "price": 1002.645,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-6.83%), long."
+    ]
   }
 ]
