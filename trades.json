@@ -44136,5 +44136,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-5.82%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-26T22:27:06.508154",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 8,
+    "price": 403.0,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.6% based on baseline allocation."
+    ]
   }
 ]
