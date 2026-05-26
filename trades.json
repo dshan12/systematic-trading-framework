@@ -44036,5 +44036,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-4.43%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-26T22:26:20.814486",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 1,
+    "price": 177.055,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.2% based on baseline allocation."
+    ]
   }
 ]
