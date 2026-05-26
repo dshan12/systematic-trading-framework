@@ -44106,5 +44106,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-6.83%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-26T22:26:53.216198",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 24,
+    "price": 116.56,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-6.40%), long."
+    ]
   }
 ]
