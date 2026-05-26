@@ -44216,5 +44216,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (6.36%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-26T22:27:43.331409",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 63,
+    "price": 44.94,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
