@@ -44256,5 +44256,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (8.08%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-26T22:28:00.961324",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 18,
+    "price": 149.76,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-6.65%), long."
+    ]
   }
 ]
