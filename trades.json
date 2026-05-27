@@ -44266,5 +44266,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-6.65%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-27T22:46:36.404909",
+    "symbol": "BKNG",
+    "side": "sell",
+    "qty": 16,
+    "price": 168.355,
+    "reason": [
+      "Weekly Reversal: BKNG was among the 10 best 1\u2011week performers (8.95%), short."
+    ]
   }
 ]
