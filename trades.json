@@ -44406,5 +44406,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (8.39%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-27T22:47:44.536238",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 6,
+    "price": 440.01,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (8.97%), short."
+    ]
   }
 ]
