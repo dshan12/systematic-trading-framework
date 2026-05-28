@@ -44707,5 +44707,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-9.13%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:45:54.387472",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 3,
+    "price": 146.99,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-5.96%), long."
+    ]
   }
 ]
