@@ -44667,5 +44667,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (7.20%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:45:37.317259",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 11,
+    "price": 178.57,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-5.33%), long."
+    ]
   }
 ]
