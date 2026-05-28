@@ -44447,5 +44447,15 @@
       "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (15.75%), short.",
       "Pairs Trading: AMD/JPM spread z\u2011score=4.68, short JPM."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:44:01.430356",
+    "symbol": "BKNG",
+    "side": "buy",
+    "qty": 3,
+    "price": 169.845,
+    "reason": [
+      "Weekly Reversal: BKNG was among the 10 best 1\u2011week performers (8.20%), short."
+    ]
   }
 ]
