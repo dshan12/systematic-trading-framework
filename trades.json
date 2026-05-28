@@ -44436,5 +44436,16 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-4.71%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:43:57.014084",
+    "symbol": "AMD",
+    "side": "sell",
+    "qty": 18,
+    "price": 519.44,
+    "reason": [
+      "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (15.75%), short.",
+      "Pairs Trading: AMD/JPM spread z\u2011score=4.68, short JPM."
+    ]
   }
 ]
