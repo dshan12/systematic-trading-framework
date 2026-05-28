@@ -44497,5 +44497,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-6.02%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:44:23.107651",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 15,
+    "price": 183.13,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
