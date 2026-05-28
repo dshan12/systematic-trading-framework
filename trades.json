@@ -44517,5 +44517,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-4.98%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:44:31.704053",
+    "symbol": "ETN",
+    "side": "buy",
+    "qty": 6,
+    "price": 401.95,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
