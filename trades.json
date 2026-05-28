@@ -44607,5 +44607,15 @@
     "reason": [
       "Pairs Trading: AMD/JPM spread z\u2011score=4.68, long AMD."
     ]
+  },
+  {
+    "timestamp": "2026-05-28T22:45:11.261840",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 13,
+    "price": 80.44,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.06%)."
+    ]
   }
 ]
