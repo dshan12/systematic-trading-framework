@@ -44788,5 +44788,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (12.77%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:09:38.265673",
+    "symbol": "CSCO",
+    "side": "sell",
+    "qty": 88,
+    "price": 120.44,
+    "reason": [
+      "Pairs Trading: CSCO/WMT spread z\u2011score=4.80, short WMT."
+    ]
   }
 ]
