@@ -44838,5 +44838,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:10:04.613078",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 35,
+    "price": 299.33,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 11.8% based on baseline allocation."
+    ]
   }
 ]
