@@ -44878,5 +44878,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 best 1\u2011week performers (7.43%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:10:25.735141",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 45,
+    "price": 46.22,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
