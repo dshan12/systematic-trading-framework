@@ -44798,5 +44798,15 @@
     "reason": [
       "Pairs Trading: CSCO/WMT spread z\u2011score=4.80, short WMT."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:09:43.479869",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 11,
+    "price": 182.46,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-4.48%), long."
+    ]
   }
 ]
