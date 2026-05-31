@@ -44888,5 +44888,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:10:41.655051",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 9,
+    "price": 212.46,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-3.81%), long."
+    ]
   }
 ]
