@@ -44717,5 +44717,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-5.96%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:09:01.886964",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 9,
+    "price": 259.17,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
