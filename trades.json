@@ -44737,5 +44737,15 @@
     "reason": [
       "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (14.79%), short."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:09:12.498369",
+    "symbol": "AVGO",
+    "side": "sell",
+    "qty": 4,
+    "price": 444.33,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (7.77%), short."
+    ]
   }
 ]
