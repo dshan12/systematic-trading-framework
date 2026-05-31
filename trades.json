@@ -44898,5 +44898,16 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-3.81%), long."
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:10:46.990514",
+    "symbol": "WMT",
+    "side": "buy",
+    "qty": 91,
+    "price": 115.71,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-4.61%), long.",
+      "Pairs Trading: CSCO/WMT spread z\u2011score=4.80, long CSCO."
+    ]
   }
 ]
