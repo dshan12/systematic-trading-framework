@@ -45030,5 +45030,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-5.90%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-01T23:07:12.137814",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 18,
+    "price": 115.155,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-5.91%), long."
+    ]
   }
 ]
