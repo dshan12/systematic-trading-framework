@@ -45090,5 +45090,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-5.18%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-01T23:07:45.862477",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 220,
+    "price": 47.72,
+    "reason": [
+      "Pairs Trading: CRWD/VZ spread z\u2011score=4.94, long CRWD."
+    ]
   }
 ]
