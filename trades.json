@@ -45010,5 +45010,15 @@
     "reason": [
       "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-5.24%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-01T23:07:01.238955",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 19,
+    "price": 109.19,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-8.77%), long."
+    ]
   }
 ]
