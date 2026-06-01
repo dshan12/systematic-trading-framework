@@ -45050,5 +45050,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-06-01T23:07:22.962255",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 14,
+    "price": 141.51,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-6.01%), long."
+    ]
   }
 ]
