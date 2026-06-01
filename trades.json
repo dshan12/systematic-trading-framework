@@ -45100,5 +45100,15 @@
     "reason": [
       "Pairs Trading: CRWD/VZ spread z\u2011score=4.94, long CRWD."
     ]
+  },
+  {
+    "timestamp": "2026-06-01T23:07:50.944810",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 109,
+    "price": 114.57,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 14.1% based on baseline allocation."
+    ]
   }
 ]
