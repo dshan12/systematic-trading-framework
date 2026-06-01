@@ -44909,5 +44909,15 @@
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-4.61%), long.",
       "Pairs Trading: CSCO/WMT spread z\u2011score=4.80, long CSCO."
     ]
+  },
+  {
+    "timestamp": "2026-06-01T23:06:02.645956",
+    "symbol": "ACN",
+    "side": "sell",
+    "qty": 10,
+    "price": 196.63,
+    "reason": [
+      "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (9.68%), short."
+    ]
   }
 ]
