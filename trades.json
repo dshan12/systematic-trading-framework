@@ -45230,5 +45230,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (8.17%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:07:01.760992",
+    "symbol": "DE",
+    "side": "sell",
+    "qty": 4,
+    "price": 579.31,
+    "reason": [
+      "Weekly Reversal: DE was among the 10 best 1\u2011week performers (9.47%), short."
+    ]
   }
 ]
