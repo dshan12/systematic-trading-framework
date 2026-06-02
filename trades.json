@@ -45240,5 +45240,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 best 1\u2011week performers (9.47%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:07:06.811302",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 7,
+    "price": 358.29,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-6.87%), long."
+    ]
   }
 ]
