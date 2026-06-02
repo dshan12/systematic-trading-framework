@@ -45200,5 +45200,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-11.33%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:06:46.912953",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 2,
+    "price": 200.87,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (12.15%), short."
+    ]
   }
 ]
