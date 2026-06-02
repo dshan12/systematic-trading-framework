@@ -45280,5 +45280,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (31.33%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:07:26.958371",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 5,
+    "price": 142.385,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-5.48%), long."
+    ]
   }
 ]
