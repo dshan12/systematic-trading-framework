@@ -45160,5 +45160,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (14.11%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:06:26.994358",
+    "symbol": "BLK",
+    "side": "buy",
+    "qty": 2,
+    "price": 1019.07,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-5.42%), long."
+    ]
   }
 ]
