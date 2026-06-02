@@ -45330,5 +45330,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:07:51.262003",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 14,
+    "price": 78.435,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.05%)."
+    ]
   }
 ]
