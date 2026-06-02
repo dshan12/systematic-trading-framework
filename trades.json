@@ -45270,5 +45270,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 best 1\u2011week performers (7.04%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-02T23:07:22.099603",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 1,
+    "price": 329.54,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (31.33%), short."
+    ]
   }
 ]
