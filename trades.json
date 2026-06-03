@@ -45520,5 +45520,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (7.38%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-03T23:09:59.408434",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 19,
+    "price": 141.48,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (5.36%), short."
+    ]
   }
 ]
