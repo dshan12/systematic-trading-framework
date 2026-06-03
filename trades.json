@@ -45480,5 +45480,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (13.60%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-03T23:09:39.827239",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 10,
+    "price": 270.88,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-5.26%), long."
+    ]
   }
 ]
