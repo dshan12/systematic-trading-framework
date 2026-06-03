@@ -45560,5 +45560,15 @@
     "reason": [
       "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-7.52%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-03T23:10:18.776756",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 6,
+    "price": 407.23,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
