@@ -45490,5 +45490,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-5.26%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-03T23:09:44.598170",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 118,
+    "price": 23.53,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-6.74%), long."
+    ]
   }
 ]
