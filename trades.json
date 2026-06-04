@@ -45620,5 +45620,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (7.03%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:26:28.124655",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 5,
+    "price": 518.89,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
