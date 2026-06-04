@@ -45941,5 +45941,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-5.35%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:28:54.713614",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 47,
+    "price": 44.88,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-6.54%), long."
+    ]
   }
 ]
