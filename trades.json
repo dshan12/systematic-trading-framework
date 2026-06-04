@@ -45610,5 +45610,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:26:23.470706",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 1,
+    "price": 258.385,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (7.03%), short."
+    ]
   }
 ]
