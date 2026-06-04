@@ -45761,5 +45761,15 @@
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (9.58%), short.",
       "Pairs Trading: CSCO/PEP spread z\u2011score=4.60, short PEP."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:27:34.281213",
+    "symbol": "EOG",
+    "side": "buy",
+    "qty": 19,
+    "price": 140.88,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
