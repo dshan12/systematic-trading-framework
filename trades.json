@@ -45951,5 +45951,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-6.54%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:28:58.985178",
+    "symbol": "WFC",
+    "side": "sell",
+    "qty": 26,
+    "price": 81.6,
+    "reason": [
+      "Weekly Reversal: WFC was among the 10 best 1\u2011week performers (6.48%), short."
+    ]
   }
 ]
