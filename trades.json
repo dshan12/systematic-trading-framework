@@ -45921,5 +45921,15 @@
     "reason": [
       "Pairs Trading: CSCO/PEP spread z\u2011score=4.60, long CSCO."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:28:46.010556",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 11,
+    "price": 242.53,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
