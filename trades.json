@@ -45811,5 +45811,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 best 1\u2011week performers (8.35%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:27:56.483429",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 9,
+    "price": 217.675,
+    "reason": [
+      "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-6.59%), long."
+    ]
   }
 ]
