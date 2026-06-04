@@ -45911,5 +45911,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-7.92%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:28:41.700936",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 74,
+    "price": 142.135,
+    "reason": [
+      "Pairs Trading: CSCO/PEP spread z\u2011score=4.60, long CSCO."
+    ]
   }
 ]
