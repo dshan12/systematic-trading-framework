@@ -45931,5 +45931,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-06-04T22:28:50.298666",
+    "symbol": "TSLA",
+    "side": "buy",
+    "qty": 5,
+    "price": 417.36,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-5.35%), long."
+    ]
   }
 ]
