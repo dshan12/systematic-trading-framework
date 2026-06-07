@@ -46322,5 +46322,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (5.04%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:16:44.887786",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 47,
+    "price": 45.38,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
