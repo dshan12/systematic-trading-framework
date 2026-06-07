@@ -46031,5 +46031,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-13.66%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:14:20.364389",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 39,
+    "price": 53.82,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
