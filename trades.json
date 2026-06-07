@@ -45971,5 +45971,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (4.37%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:13:50.379702",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 33,
+    "price": 91.06,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 best 1\u2011week performers (6.39%), short."
+    ]
   }
 ]
