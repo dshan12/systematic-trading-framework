@@ -46061,5 +46061,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:14:35.371857",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 5,
+    "price": 326.345,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 best 1\u2011week performers (4.66%), short.",
+      "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.13%)."
+    ]
   }
 ]
