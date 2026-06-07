@@ -46162,5 +46162,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -1.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:15:25.379794",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 5,
+    "price": 213.98,
+    "reason": [
+      "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-10.04%), long."
+    ]
   }
 ]
