@@ -46282,5 +46282,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:16:24.856692",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 74,
+    "price": 141.875,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 11.6% based on baseline allocation."
+    ]
   }
 ]
