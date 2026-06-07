@@ -45981,5 +45981,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 best 1\u2011week performers (6.39%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:13:55.352205",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 9,
+    "price": 251.425,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
