@@ -46132,5 +46132,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 best 1\u2011week performers (7.61%), short."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:15:10.301135",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 7,
+    "price": 415.68,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (5.68%), short."
+    ]
   }
 ]
