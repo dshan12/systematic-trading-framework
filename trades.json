@@ -46262,5 +46262,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-7.46%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:16:14.701818",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 27,
+    "price": 82.2,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
