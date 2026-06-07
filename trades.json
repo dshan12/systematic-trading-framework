@@ -46172,5 +46172,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-10.04%), long."
     ]
+  },
+  {
+    "timestamp": "2026-06-07T22:15:30.233139",
+    "symbol": "IBM",
+    "side": "buy",
+    "qty": 8,
+    "price": 284.82,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
